@@ -1,0 +1,1328 @@
+﻿book,book_name,section,office,office_en,job,job_en,count,duty_en
+1,Heavenly Offices – Grand Steward,2,大宰,Grand Steward,卿,Minister,1,Administers grand steward.
+1,Heavenly Offices – Grand Steward,2,宰夫,Steward Officer,上士,Senior Officer,8,Administers steward officer.
+1,Heavenly Offices – Grand Steward,2,宰夫,Steward Officer,下大夫,Lower Grand Officer,4,Administers steward officer.
+1,Heavenly Offices – Grand Steward,2,宰夫,Steward Officer,中士,Middle Officer,16,Administers steward officer.
+1,Heavenly Offices – Grand Steward,2,宰夫,Steward Officer,史,Scribe,12,Administers steward officer.
+1,Heavenly Offices – Grand Steward,2,宰夫,Steward Officer,府,Storekeeper,6,Administers steward officer.
+1,Heavenly Offices – Grand Steward,2,宰夫,Steward Officer,徒,Laborer,120,Administers steward officer.
+1,Heavenly Offices – Grand Steward,2,宰夫,Steward Officer,旅下士,Retinue Junior Officer,32,Administers steward officer.
+1,Heavenly Offices – Grand Steward,2,宰夫,Steward Officer,胥,Clerk,12,Administers steward officer.
+1,Heavenly Offices – Grand Steward,2,小宰,Assistant Steward,中大夫,Middle Grand Officer,2,Administers assistant steward.
+1,Heavenly Offices – Grand Steward,3,宮伯,Palace Overseer,下士,Junior Officer,4,Administers palace overseer.
+1,Heavenly Offices – Grand Steward,3,宮伯,Palace Overseer,中士,Middle Officer,2,Administers palace overseer.
+1,Heavenly Offices – Grand Steward,3,宮伯,Palace Overseer,史,Scribe,2,Administers palace overseer.
+1,Heavenly Offices – Grand Steward,3,宮伯,Palace Overseer,府,Storekeeper,1,Administers palace overseer.
+1,Heavenly Offices – Grand Steward,3,宮伯,Palace Overseer,徒,Laborer,20,Administers palace overseer.
+1,Heavenly Offices – Grand Steward,3,宮伯,Palace Overseer,胥,Clerk,2,Administers palace overseer.
+1,Heavenly Offices – Grand Steward,3,宮正,Palace Supervisor,上士,Senior Officer,2,Administers palace supervisor.
+1,Heavenly Offices – Grand Steward,3,宮正,Palace Supervisor,下士,Junior Officer,8,Administers palace supervisor.
+1,Heavenly Offices – Grand Steward,3,宮正,Palace Supervisor,中士,Middle Officer,4,Administers palace supervisor.
+1,Heavenly Offices – Grand Steward,3,宮正,Palace Supervisor,史,Scribe,4,Administers palace supervisor.
+1,Heavenly Offices – Grand Steward,3,宮正,Palace Supervisor,府,Storekeeper,2,Administers palace supervisor.
+1,Heavenly Offices – Grand Steward,3,宮正,Palace Supervisor,徒,Laborer,40,Administers palace supervisor.
+1,Heavenly Offices – Grand Steward,3,宮正,Palace Supervisor,胥,Clerk,4,Administers palace supervisor.
+1,Heavenly Offices – Grand Steward,4,膳夫,Chief of Royal Meals,上士,Senior Officer,2,Supplies food for court.
+1,Heavenly Offices – Grand Steward,4,膳夫,Chief of Royal Meals,下士,Junior Officer,8,Supplies food for court.
+1,Heavenly Offices – Grand Steward,4,膳夫,Chief of Royal Meals,中士,Middle Officer,4,Supplies food for court.
+1,Heavenly Offices – Grand Steward,4,膳夫,Chief of Royal Meals,史,Scribe,4,Supplies food for court.
+1,Heavenly Offices – Grand Steward,4,膳夫,Chief of Royal Meals,府,Storekeeper,2,Supplies food for court.
+1,Heavenly Offices – Grand Steward,4,膳夫,Chief of Royal Meals,徒,Laborer,120,Supplies food for court.
+1,Heavenly Offices – Grand Steward,4,膳夫,Chief of Royal Meals,胥,Clerk,12,Supplies food for court.
+1,Heavenly Offices – Grand Steward,5,庖人,Kitchen Master,下士,Junior Officer,8,Supplies food for court.
+1,Heavenly Offices – Grand Steward,5,庖人,Kitchen Master,中士,Middle Officer,4,Supplies food for court.
+1,Heavenly Offices – Grand Steward,5,庖人,Kitchen Master,史,Scribe,4,Supplies food for court.
+1,Heavenly Offices – Grand Steward,5,庖人,Kitchen Master,府,Storekeeper,2,Supplies food for court.
+1,Heavenly Offices – Grand Steward,5,庖人,Kitchen Master,徒,Laborer,40,Supplies food for court.
+1,Heavenly Offices – Grand Steward,5,庖人,Kitchen Master,胥,Clerk,4,Supplies food for court.
+1,Heavenly Offices – Grand Steward,5,庖人,Kitchen Master,賈,Merchant,8,Supplies food for court.
+1,Heavenly Offices – Grand Steward,6,內饔,Inner Kitchen Steward,下士,Junior Officer,8,Supplies food for court.
+1,Heavenly Offices – Grand Steward,6,內饔,Inner Kitchen Steward,中士,Middle Officer,4,Supplies food for court.
+1,Heavenly Offices – Grand Steward,6,內饔,Inner Kitchen Steward,史,Scribe,4,Supplies food for court.
+1,Heavenly Offices – Grand Steward,6,內饔,Inner Kitchen Steward,府,Storekeeper,2,Supplies food for court.
+1,Heavenly Offices – Grand Steward,6,內饔,Inner Kitchen Steward,徒,Laborer,100,Supplies food for court.
+1,Heavenly Offices – Grand Steward,6,內饔,Inner Kitchen Steward,胥,Clerk,10,Supplies food for court.
+1,Heavenly Offices – Grand Steward,7,外饔,Outer Kitchen Steward,下士,Junior Officer,8,Supplies food for court.
+1,Heavenly Offices – Grand Steward,7,外饔,Outer Kitchen Steward,中士,Middle Officer,4,Supplies food for court.
+1,Heavenly Offices – Grand Steward,7,外饔,Outer Kitchen Steward,史,Scribe,4,Supplies food for court.
+1,Heavenly Offices – Grand Steward,7,外饔,Outer Kitchen Steward,府,Storekeeper,2,Supplies food for court.
+1,Heavenly Offices – Grand Steward,7,外饔,Outer Kitchen Steward,徒,Laborer,100,Supplies food for court.
+1,Heavenly Offices – Grand Steward,7,外饔,Outer Kitchen Steward,胥,Clerk,10,Supplies food for court.
+1,Heavenly Offices – Grand Steward,8,亨人,Cooking Steward,下士,Junior Officer,4,Administers cooking steward.
+1,Heavenly Offices – Grand Steward,8,亨人,Cooking Steward,史,Scribe,2,Administers cooking steward.
+1,Heavenly Offices – Grand Steward,8,亨人,Cooking Steward,府,Storekeeper,1,Administers cooking steward.
+1,Heavenly Offices – Grand Steward,8,亨人,Cooking Steward,徒,Laborer,50,Administers cooking steward.
+1,Heavenly Offices – Grand Steward,8,亨人,Cooking Steward,胥,Clerk,5,Administers cooking steward.
+1,Heavenly Offices – Grand Steward,9,甸師,Royal Fields Master,下士,Junior Officer,2,Supervises agriculture.
+1,Heavenly Offices – Grand Steward,9,甸師,Royal Fields Master,史,Scribe,2,Supervises agriculture.
+1,Heavenly Offices – Grand Steward,9,甸師,Royal Fields Master,府,Storekeeper,1,Supervises agriculture.
+1,Heavenly Offices – Grand Steward,9,甸師,Royal Fields Master,徒,Laborer,300,Supervises agriculture.
+1,Heavenly Offices – Grand Steward,9,甸師,Royal Fields Master,胥,Clerk,30,Supervises agriculture.
+1,Heavenly Offices – Grand Steward,10,獸人,Game Officer,下士,Junior Officer,8,Administers game officer.
+1,Heavenly Offices – Grand Steward,10,獸人,Game Officer,中士,Middle Officer,4,Administers game officer.
+1,Heavenly Offices – Grand Steward,10,獸人,Game Officer,史,Scribe,4,Administers game officer.
+1,Heavenly Offices – Grand Steward,10,獸人,Game Officer,府,Storekeeper,2,Administers game officer.
+1,Heavenly Offices – Grand Steward,10,獸人,Game Officer,徒,Laborer,40,Administers game officer.
+1,Heavenly Offices – Grand Steward,10,獸人,Game Officer,胥,Clerk,4,Administers game officer.
+1,Heavenly Offices – Grand Steward,11,漁人,Fishing Officer,下士,Junior Officer,4,Administers fishing officer.
+1,Heavenly Offices – Grand Steward,11,漁人,Fishing Officer,中士,Middle Officer,2,Administers fishing officer.
+1,Heavenly Offices – Grand Steward,11,漁人,Fishing Officer,史,Scribe,4,Administers fishing officer.
+1,Heavenly Offices – Grand Steward,11,漁人,Fishing Officer,府,Storekeeper,2,Administers fishing officer.
+1,Heavenly Offices – Grand Steward,11,漁人,Fishing Officer,徒,Laborer,300,Administers fishing officer.
+1,Heavenly Offices – Grand Steward,11,漁人,Fishing Officer,胥,Clerk,30,Administers fishing officer.
+1,Heavenly Offices – Grand Steward,12,鱉人,Turtle Officer,下士,Junior Officer,4,Administers turtle officer.
+1,Heavenly Offices – Grand Steward,12,鱉人,Turtle Officer,史,Scribe,2,Administers turtle officer.
+1,Heavenly Offices – Grand Steward,12,鱉人,Turtle Officer,府,Storekeeper,2,Administers turtle officer.
+1,Heavenly Offices – Grand Steward,12,鱉人,Turtle Officer,徒,Laborer,16,Administers turtle officer.
+1,Heavenly Offices – Grand Steward,13,臘人,Dry Meat Officer,下士,Junior Officer,4,Administers dry meat officer.
+1,Heavenly Offices – Grand Steward,13,臘人,Dry Meat Officer,史,Scribe,2,Administers dry meat officer.
+1,Heavenly Offices – Grand Steward,13,臘人,Dry Meat Officer,府,Storekeeper,2,Administers dry meat officer.
+1,Heavenly Offices – Grand Steward,13,臘人,Dry Meat Officer,徒,Laborer,20,Administers dry meat officer.
+1,Heavenly Offices – Grand Steward,14,醫師,Chief Physician,上士,Senior Officer,2,Provides medical care.
+1,Heavenly Offices – Grand Steward,14,醫師,Chief Physician,下士,Junior Officer,4,Provides medical care.
+1,Heavenly Offices – Grand Steward,14,醫師,Chief Physician,史,Scribe,2,Provides medical care.
+1,Heavenly Offices – Grand Steward,14,醫師,Chief Physician,府,Storekeeper,2,Provides medical care.
+1,Heavenly Offices – Grand Steward,14,醫師,Chief Physician,徒,Laborer,20,Provides medical care.
+1,Heavenly Offices – Grand Steward,15,食醫,Diet Physician,中士,Middle Officer,2,Provides medical care.
+1,Heavenly Offices – Grand Steward,16,疾醫,Disease Physician,中士,Middle Officer,8,Provides medical care.
+1,Heavenly Offices – Grand Steward,17,瘍醫,Wound Physician,下士,Junior Officer,8,Provides medical care.
+1,Heavenly Offices – Grand Steward,18,獸醫,Veterinary Physician,下士,Junior Officer,4,Provides medical care.
+1,Heavenly Offices – Grand Steward,19,酒正,Director of Wine,下士,Junior Officer,8,Supplies food for court.
+1,Heavenly Offices – Grand Steward,19,酒正,Director of Wine,中士,Middle Officer,4,Supplies food for court.
+1,Heavenly Offices – Grand Steward,19,酒正,Director of Wine,史,Scribe,8,Supplies food for court.
+1,Heavenly Offices – Grand Steward,19,酒正,Director of Wine,府,Storekeeper,2,Supplies food for court.
+1,Heavenly Offices – Grand Steward,19,酒正,Director of Wine,徒,Laborer,80,Supplies food for court.
+1,Heavenly Offices – Grand Steward,19,酒正,Director of Wine,胥,Clerk,8,Supplies food for court.
+1,Heavenly Offices – Grand Steward,20,酒人,Wine Worker,奄,Palace Servant,10,Supplies food for court.
+1,Heavenly Offices – Grand Steward,20,酒人,Wine Worker,奚,Servant,300,Supplies food for court.
+1,Heavenly Offices – Grand Steward,20,酒人,Wine Worker,女酒,Female Wine Worker,30,Supplies food for court.
+1,Heavenly Offices – Grand Steward,21,漿人,Drinks Worker,奄,Palace Servant,5,Administers drinks worker.
+1,Heavenly Offices – Grand Steward,21,漿人,Drinks Worker,奚,Servant,150,Administers drinks worker.
+1,Heavenly Offices – Grand Steward,21,漿人,Drinks Worker,女漿,Female Drinks Worker,15,Administers drinks worker.
+1,Heavenly Offices – Grand Steward,22,凌人,Ice Officer,下士,Junior Officer,2,Administers ice officer.
+1,Heavenly Offices – Grand Steward,22,凌人,Ice Officer,史,Scribe,2,Administers ice officer.
+1,Heavenly Offices – Grand Steward,22,凌人,Ice Officer,府,Storekeeper,2,Administers ice officer.
+1,Heavenly Offices – Grand Steward,22,凌人,Ice Officer,徒,Laborer,80,Administers ice officer.
+1,Heavenly Offices – Grand Steward,22,凌人,Ice Officer,胥,Clerk,8,Administers ice officer.
+1,Heavenly Offices – Grand Steward,23,籩人,Basket Offerings Officer,奄,Palace Servant,1,Administers basket offerings officer.
+1,Heavenly Offices – Grand Steward,23,籩人,Basket Offerings Officer,奚,Servant,20,Administers basket offerings officer.
+1,Heavenly Offices – Grand Steward,23,籩人,Basket Offerings Officer,女籩,Female Basket Offerings Worker,10,Administers basket offerings officer.
+1,Heavenly Offices – Grand Steward,24,醢人,Sauce Officer,奄,Palace Servant,1,Administers sauce officer.
+1,Heavenly Offices – Grand Steward,24,醢人,Sauce Officer,奚,Servant,40,Administers sauce officer.
+1,Heavenly Offices – Grand Steward,24,醢人,Sauce Officer,女醢,Female Sauce Worker,20,Administers sauce officer.
+1,Heavenly Offices – Grand Steward,25,醯人,Vinegar Officer,奄,Palace Servant,2,Administers vinegar officer.
+1,Heavenly Offices – Grand Steward,25,醯人,Vinegar Officer,奚,Servant,40,Administers vinegar officer.
+1,Heavenly Offices – Grand Steward,25,醯人,Vinegar Officer,女醯,Female Vinegar Worker,20,Administers vinegar officer.
+1,Heavenly Offices – Grand Steward,26,鹽人,Salt Officer,奄,Palace Servant,2,Administers salt officer.
+1,Heavenly Offices – Grand Steward,26,鹽人,Salt Officer,奚,Servant,40,Administers salt officer.
+1,Heavenly Offices – Grand Steward,26,鹽人,Salt Officer,女鹽,Female Salt Worker,20,Administers salt officer.
+1,Heavenly Offices – Grand Steward,27,冪人,Coverings Officer,奄,Palace Servant,1,Administers coverings officer.
+1,Heavenly Offices – Grand Steward,27,冪人,Coverings Officer,奚,Servant,20,Administers coverings officer.
+1,Heavenly Offices – Grand Steward,27,冪人,Coverings Officer,女冪,Female Coverings Worker,10,Administers coverings officer.
+1,Heavenly Offices – Grand Steward,28,宮人,Palace Attendant,下士,Junior Officer,8,Administers palace attendant.
+1,Heavenly Offices – Grand Steward,28,宮人,Palace Attendant,中士,Middle Officer,4,Administers palace attendant.
+1,Heavenly Offices – Grand Steward,28,宮人,Palace Attendant,史,Scribe,4,Administers palace attendant.
+1,Heavenly Offices – Grand Steward,28,宮人,Palace Attendant,府,Storekeeper,2,Administers palace attendant.
+1,Heavenly Offices – Grand Steward,28,宮人,Palace Attendant,徒,Laborer,80,Administers palace attendant.
+1,Heavenly Offices – Grand Steward,28,宮人,Palace Attendant,胥,Clerk,8,Administers palace attendant.
+1,Heavenly Offices – Grand Steward,29,掌舍,Lodgings Officer,下士,Junior Officer,4,Administers lodgings officer.
+1,Heavenly Offices – Grand Steward,29,掌舍,Lodgings Officer,史,Scribe,4,Administers lodgings officer.
+1,Heavenly Offices – Grand Steward,29,掌舍,Lodgings Officer,府,Storekeeper,2,Administers lodgings officer.
+1,Heavenly Offices – Grand Steward,29,掌舍,Lodgings Officer,徒,Laborer,40,Administers lodgings officer.
+1,Heavenly Offices – Grand Steward,30,幕人,Tent Officer,下士,Junior Officer,1,Administers tent officer.
+1,Heavenly Offices – Grand Steward,30,幕人,Tent Officer,史,Scribe,2,Administers tent officer.
+1,Heavenly Offices – Grand Steward,30,幕人,Tent Officer,府,Storekeeper,2,Administers tent officer.
+1,Heavenly Offices – Grand Steward,30,幕人,Tent Officer,徒,Laborer,40,Administers tent officer.
+1,Heavenly Offices – Grand Steward,31,掌次,Camp Officer,下士,Junior Officer,4,Administers camp officer.
+1,Heavenly Offices – Grand Steward,31,掌次,Camp Officer,史,Scribe,2,Administers camp officer.
+1,Heavenly Offices – Grand Steward,31,掌次,Camp Officer,府,Storekeeper,4,Administers camp officer.
+1,Heavenly Offices – Grand Steward,31,掌次,Camp Officer,徒,Laborer,80,Administers camp officer.
+1,Heavenly Offices – Grand Steward,32,大府,Grand Treasury,上士,Senior Officer,4,Manages state finances.
+1,Heavenly Offices – Grand Steward,32,大府,Grand Treasury,下士,Junior Officer,8,Manages state finances.
+1,Heavenly Offices – Grand Steward,32,大府,Grand Treasury,下大夫,Lower Grand Officer,2,Manages state finances.
+1,Heavenly Offices – Grand Steward,32,大府,Grand Treasury,史,Scribe,8,Manages state finances.
+1,Heavenly Offices – Grand Steward,32,大府,Grand Treasury,府,Storekeeper,4,Manages state finances.
+1,Heavenly Offices – Grand Steward,32,大府,Grand Treasury,徒,Laborer,80,Manages state finances.
+1,Heavenly Offices – Grand Steward,32,大府,Grand Treasury,胥,Clerk,8,Manages state finances.
+1,Heavenly Offices – Grand Steward,32,大府,Grand Treasury,賈,Merchant,16,Manages state finances.
+1,Heavenly Offices – Grand Steward,33,玉府,Jade Treasury,上士,Senior Officer,2,Manages state finances.
+1,Heavenly Offices – Grand Steward,33,玉府,Jade Treasury,中士,Middle Officer,4,Manages state finances.
+1,Heavenly Offices – Grand Steward,33,玉府,Jade Treasury,史,Scribe,2,Manages state finances.
+1,Heavenly Offices – Grand Steward,33,玉府,Jade Treasury,工,Artisan,8,Manages state finances.
+1,Heavenly Offices – Grand Steward,33,玉府,Jade Treasury,府,Storekeeper,2,Manages state finances.
+1,Heavenly Offices – Grand Steward,33,玉府,Jade Treasury,徒,Laborer,48,Manages state finances.
+1,Heavenly Offices – Grand Steward,33,玉府,Jade Treasury,胥,Clerk,4,Manages state finances.
+1,Heavenly Offices – Grand Steward,33,玉府,Jade Treasury,賈,Merchant,8,Manages state finances.
+1,Heavenly Offices – Grand Steward,34,內府,Inner Treasury,中士,Middle Officer,2,Manages state finances.
+1,Heavenly Offices – Grand Steward,34,內府,Inner Treasury,史,Scribe,2,Manages state finances.
+1,Heavenly Offices – Grand Steward,34,內府,Inner Treasury,府,Storekeeper,1,Manages state finances.
+1,Heavenly Offices – Grand Steward,34,內府,Inner Treasury,徒,Laborer,10,Manages state finances.
+1,Heavenly Offices – Grand Steward,35,外府,Outer Treasury,中士,Middle Officer,2,Manages state finances.
+1,Heavenly Offices – Grand Steward,35,外府,Outer Treasury,史,Scribe,2,Manages state finances.
+1,Heavenly Offices – Grand Steward,35,外府,Outer Treasury,府,Storekeeper,1,Manages state finances.
+1,Heavenly Offices – Grand Steward,35,外府,Outer Treasury,徒,Laborer,10,Manages state finances.
+1,Heavenly Offices – Grand Steward,36,司會,Director of Accounts,上士,Senior Officer,8,Manages state finances.
+1,Heavenly Offices – Grand Steward,36,司會,Director of Accounts,下大夫,Lower Grand Officer,4,Manages state finances.
+1,Heavenly Offices – Grand Steward,36,司會,Director of Accounts,中士,Middle Officer,16,Manages state finances.
+1,Heavenly Offices – Grand Steward,36,司會,Director of Accounts,中大夫,Middle Grand Officer,2,Manages state finances.
+1,Heavenly Offices – Grand Steward,36,司會,Director of Accounts,史,Scribe,8,Manages state finances.
+1,Heavenly Offices – Grand Steward,36,司會,Director of Accounts,府,Storekeeper,4,Manages state finances.
+1,Heavenly Offices – Grand Steward,36,司會,Director of Accounts,徒,Laborer,50,Manages state finances.
+1,Heavenly Offices – Grand Steward,36,司會,Director of Accounts,胥,Clerk,5,Manages state finances.
+1,Heavenly Offices – Grand Steward,37,司書,Director of Documents,上士,Senior Officer,2,Keeps state records.
+1,Heavenly Offices – Grand Steward,37,司書,Director of Documents,中士,Middle Officer,4,Keeps state records.
+1,Heavenly Offices – Grand Steward,37,司書,Director of Documents,史,Scribe,4,Keeps state records.
+1,Heavenly Offices – Grand Steward,37,司書,Director of Documents,府,Storekeeper,2,Keeps state records.
+1,Heavenly Offices – Grand Steward,37,司書,Director of Documents,徒,Laborer,8,Keeps state records.
+1,Heavenly Offices – Grand Steward,38,職內,Revenue Registrar,上士,Senior Officer,2,Administers revenue registrar.
+1,Heavenly Offices – Grand Steward,38,職內,Revenue Registrar,中士,Middle Officer,4,Administers revenue registrar.
+1,Heavenly Offices – Grand Steward,38,職內,Revenue Registrar,史,Scribe,4,Administers revenue registrar.
+1,Heavenly Offices – Grand Steward,38,職內,Revenue Registrar,府,Storekeeper,4,Administers revenue registrar.
+1,Heavenly Offices – Grand Steward,38,職內,Revenue Registrar,徒,Laborer,20,Administers revenue registrar.
+1,Heavenly Offices – Grand Steward,39,職歲,Expenditure Registrar,上士,Senior Officer,4,Administers expenditure registrar.
+1,Heavenly Offices – Grand Steward,39,職歲,Expenditure Registrar,中士,Middle Officer,8,Administers expenditure registrar.
+1,Heavenly Offices – Grand Steward,39,職歲,Expenditure Registrar,史,Scribe,8,Administers expenditure registrar.
+1,Heavenly Offices – Grand Steward,39,職歲,Expenditure Registrar,府,Storekeeper,4,Administers expenditure registrar.
+1,Heavenly Offices – Grand Steward,39,職歲,Expenditure Registrar,徒,Laborer,20,Administers expenditure registrar.
+1,Heavenly Offices – Grand Steward,40,職幣,Currency Registrar,上士,Senior Officer,2,Manages state finances.
+1,Heavenly Offices – Grand Steward,40,職幣,Currency Registrar,中士,Middle Officer,4,Manages state finances.
+1,Heavenly Offices – Grand Steward,40,職幣,Currency Registrar,史,Scribe,4,Manages state finances.
+1,Heavenly Offices – Grand Steward,40,職幣,Currency Registrar,府,Storekeeper,2,Manages state finances.
+1,Heavenly Offices – Grand Steward,40,職幣,Currency Registrar,徒,Laborer,20,Manages state finances.
+1,Heavenly Offices – Grand Steward,40,職幣,Currency Registrar,胥,Clerk,2,Manages state finances.
+1,Heavenly Offices – Grand Steward,40,職幣,Currency Registrar,賈,Merchant,4,Manages state finances.
+1,Heavenly Offices – Grand Steward,41,司裘,Director of Furs,下士,Junior Officer,4,Administers director of furs.
+1,Heavenly Offices – Grand Steward,41,司裘,Director of Furs,中士,Middle Officer,2,Administers director of furs.
+1,Heavenly Offices – Grand Steward,41,司裘,Director of Furs,史,Scribe,4,Administers director of furs.
+1,Heavenly Offices – Grand Steward,41,司裘,Director of Furs,府,Storekeeper,2,Administers director of furs.
+1,Heavenly Offices – Grand Steward,41,司裘,Director of Furs,徒,Laborer,40,Administers director of furs.
+1,Heavenly Offices – Grand Steward,42,掌皮,Hides Officer,下士,Junior Officer,4,Administers hides officer.
+1,Heavenly Offices – Grand Steward,42,掌皮,Hides Officer,史,Scribe,4,Administers hides officer.
+1,Heavenly Offices – Grand Steward,42,掌皮,Hides Officer,府,Storekeeper,2,Administers hides officer.
+1,Heavenly Offices – Grand Steward,42,掌皮,Hides Officer,徒,Laborer,40,Administers hides officer.
+1,Heavenly Offices – Grand Steward,43,內宰,Inner Steward,上士,Senior Officer,4,Administers inner steward.
+1,Heavenly Offices – Grand Steward,43,內宰,Inner Steward,下大夫,Lower Grand Officer,2,Administers inner steward.
+1,Heavenly Offices – Grand Steward,43,內宰,Inner Steward,中士,Middle Officer,8,Administers inner steward.
+1,Heavenly Offices – Grand Steward,43,內宰,Inner Steward,史,Scribe,8,Administers inner steward.
+1,Heavenly Offices – Grand Steward,43,內宰,Inner Steward,府,Storekeeper,4,Administers inner steward.
+1,Heavenly Offices – Grand Steward,43,內宰,Inner Steward,徒,Laborer,80,Administers inner steward.
+1,Heavenly Offices – Grand Steward,43,內宰,Inner Steward,胥,Clerk,8,Administers inner steward.
+1,Heavenly Offices – Grand Steward,43,內小臣,Inner Retainer,上士,Senior Officer,4,Administers inner retainer.
+1,Heavenly Offices – Grand Steward,43,內小臣,Inner Retainer,史,Scribe,2,Administers inner retainer.
+1,Heavenly Offices – Grand Steward,43,內小臣,Inner Retainer,徒,Laborer,8,Administers inner retainer.
+1,Heavenly Offices – Grand Steward,49,典婦功,Director of Women's Work,下士,Junior Officer,4,Administers director of women's work.
+1,Heavenly Offices – Grand Steward,49,典婦功,Director of Women's Work,中士,Middle Officer,2,Administers director of women's work.
+1,Heavenly Offices – Grand Steward,49,典婦功,Director of Women's Work,史,Scribe,4,Administers director of women's work.
+1,Heavenly Offices – Grand Steward,49,典婦功,Director of Women's Work,工,Artisan,4,Administers director of women's work.
+1,Heavenly Offices – Grand Steward,49,典婦功,Director of Women's Work,府,Storekeeper,2,Administers director of women's work.
+1,Heavenly Offices – Grand Steward,49,典婦功,Director of Women's Work,徒,Laborer,20,Administers director of women's work.
+1,Heavenly Offices – Grand Steward,49,典婦功,Director of Women's Work,賈,Merchant,4,Administers director of women's work.
+1,Heavenly Offices – Grand Steward,49,典絲,Director of Silk,下士,Junior Officer,2,Administers director of silk.
+1,Heavenly Offices – Grand Steward,49,典絲,Director of Silk,史,Scribe,2,Administers director of silk.
+1,Heavenly Offices – Grand Steward,49,典絲,Director of Silk,府,Storekeeper,2,Administers director of silk.
+1,Heavenly Offices – Grand Steward,49,典絲,Director of Silk,徒,Laborer,12,Administers director of silk.
+1,Heavenly Offices – Grand Steward,49,典絲,Director of Silk,賈,Merchant,4,Administers director of silk.
+1,Heavenly Offices – Grand Steward,50,內司服,Director of Inner Robes,奄,Palace Servant,1,Administers director of inner robes.
+1,Heavenly Offices – Grand Steward,50,內司服,Director of Inner Robes,奚,Servant,8,Administers director of inner robes.
+1,Heavenly Offices – Grand Steward,50,內司服,Director of Inner Robes,女御,Lady Attendant,2,Administers director of inner robes.
+1,Heavenly Offices – Grand Steward,50,典枲,Director of Hemp,下士,Junior Officer,2,Administers director of hemp.
+1,Heavenly Offices – Grand Steward,50,典枲,Director of Hemp,史,Scribe,2,Administers director of hemp.
+1,Heavenly Offices – Grand Steward,50,典枲,Director of Hemp,府,Storekeeper,2,Administers director of hemp.
+1,Heavenly Offices – Grand Steward,50,典枲,Director of Hemp,徒,Laborer,20,Administers director of hemp.
+1,Heavenly Offices – Grand Steward,51,縫人,Seamstress Officer,奄,Palace Servant,2,Administers seamstress officer.
+1,Heavenly Offices – Grand Steward,51,縫人,Seamstress Officer,奚,Servant,30,Administers seamstress officer.
+1,Heavenly Offices – Grand Steward,51,縫人,Seamstress Officer,女工,Female Artisan,80,Administers seamstress officer.
+1,Heavenly Offices – Grand Steward,51,縫人,Seamstress Officer,女御,Lady Attendant,8,Administers seamstress officer.
+1,Heavenly Offices – Grand Steward,52,染人,Dyeing Officer,下士,Junior Officer,2,Administers dyeing officer.
+1,Heavenly Offices – Grand Steward,52,染人,Dyeing Officer,史,Scribe,2,Administers dyeing officer.
+1,Heavenly Offices – Grand Steward,52,染人,Dyeing Officer,府,Storekeeper,2,Administers dyeing officer.
+1,Heavenly Offices – Grand Steward,52,染人,Dyeing Officer,徒,Laborer,20,Administers dyeing officer.
+1,Heavenly Offices – Grand Steward,53,追師,Headgear Master,下士,Junior Officer,2,Administers headgear master.
+1,Heavenly Offices – Grand Steward,53,追師,Headgear Master,史,Scribe,2,Administers headgear master.
+1,Heavenly Offices – Grand Steward,53,追師,Headgear Master,工,Artisan,2,Administers headgear master.
+1,Heavenly Offices – Grand Steward,53,追師,Headgear Master,府,Storekeeper,1,Administers headgear master.
+1,Heavenly Offices – Grand Steward,53,追師,Headgear Master,徒,Laborer,4,Administers headgear master.
+1,Heavenly Offices – Grand Steward,54,屨人,Footwear Officer,下士,Junior Officer,2,Administers footwear officer.
+1,Heavenly Offices – Grand Steward,54,屨人,Footwear Officer,史,Scribe,1,Administers footwear officer.
+1,Heavenly Offices – Grand Steward,54,屨人,Footwear Officer,工,Artisan,8,Administers footwear officer.
+1,Heavenly Offices – Grand Steward,54,屨人,Footwear Officer,府,Storekeeper,1,Administers footwear officer.
+1,Heavenly Offices – Grand Steward,54,屨人,Footwear Officer,徒,Laborer,4,Administers footwear officer.
+1,Heavenly Offices – Grand Steward,55,夏采,Summer Gatherer,下士,Junior Officer,4,Administers summer gatherer.
+1,Heavenly Offices – Grand Steward,55,夏采,Summer Gatherer,史,Scribe,1,Administers summer gatherer.
+1,Heavenly Offices – Grand Steward,55,夏采,Summer Gatherer,徒,Laborer,4,Administers summer gatherer.
+2,Earth Offices – Situ (Minister of Land and People),1,大司徒,Grand Situ,卿,Minister,1,Administers grand situ.
+2,Earth Offices – Situ (Minister of Land and People),1,小司徒,Assistant Situ,中大夫,Middle Grand Officer,2,Administers assistant situ.
+2,Earth Offices – Situ (Minister of Land and People),1,鄉師,District Master,上士,Senior Officer,8,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),1,鄉師,District Master,下大夫,Lower Grand Officer,4,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),1,鄉師,District Master,中士,Middle Officer,16,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),1,鄉師,District Master,史,Scribe,12,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),1,鄉師,District Master,府,Storekeeper,6,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),1,鄉師,District Master,徒,Laborer,120,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),1,鄉師,District Master,旅下士,Retinue Junior Officer,32,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),1,鄉師,District Master,胥,Clerk,12,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),2,州長,Prefect,中大夫,Middle Grand Officer,1,Administers prefect.
+2,Earth Offices – Situ (Minister of Land and People),2,族師,Clan Master,上士,Senior Officer,1,Administers clan master.
+2,Earth Offices – Situ (Minister of Land and People),2,比長,Mutual-Aid Group Chief,下士,Junior Officer,1,Administers mutual-aid group chief.
+2,Earth Offices – Situ (Minister of Land and People),2,鄉大夫,District Grand Officer,卿,Minister,1,Administers district grand officer.
+2,Earth Offices – Situ (Minister of Land and People),2,閭胥,Neighborhood Clerk,中士,Middle Officer,1,Administers neighborhood clerk.
+2,Earth Offices – Situ (Minister of Land and People),2,黨正,Ward Chief,下大夫,Lower Grand Officer,1,Administers ward chief.
+2,Earth Offices – Situ (Minister of Land and People),3,封人,Boundary Officer,下士,Junior Officer,8,Administers boundary officer.
+2,Earth Offices – Situ (Minister of Land and People),3,封人,Boundary Officer,中士,Middle Officer,4,Administers boundary officer.
+2,Earth Offices – Situ (Minister of Land and People),3,封人,Boundary Officer,史,Scribe,4,Administers boundary officer.
+2,Earth Offices – Situ (Minister of Land and People),3,封人,Boundary Officer,府,Storekeeper,2,Administers boundary officer.
+2,Earth Offices – Situ (Minister of Land and People),3,封人,Boundary Officer,徒,Laborer,60,Administers boundary officer.
+2,Earth Offices – Situ (Minister of Land and People),3,封人,Boundary Officer,胥,Clerk,6,Administers boundary officer.
+2,Earth Offices – Situ (Minister of Land and People),4,鼓人,Drum Officer,中士,Middle Officer,6,Administers drum officer.
+2,Earth Offices – Situ (Minister of Land and People),4,鼓人,Drum Officer,史,Scribe,2,Administers drum officer.
+2,Earth Offices – Situ (Minister of Land and People),4,鼓人,Drum Officer,府,Storekeeper,2,Administers drum officer.
+2,Earth Offices – Situ (Minister of Land and People),4,鼓人,Drum Officer,徒,Laborer,20,Administers drum officer.
+2,Earth Offices – Situ (Minister of Land and People),5,舞師,Dance Master,下士,Junior Officer,2,Administers dance master.
+2,Earth Offices – Situ (Minister of Land and People),5,舞師,Dance Master,胥,Clerk,4,Administers dance master.
+2,Earth Offices – Situ (Minister of Land and People),5,舞師,Dance Master,舞徒,Dance Laborer,40,Administers dance master.
+2,Earth Offices – Situ (Minister of Land and People),6,牧人,Herding Officer,下士,Junior Officer,6,Administers herding officer.
+2,Earth Offices – Situ (Minister of Land and People),6,牧人,Herding Officer,史,Scribe,2,Administers herding officer.
+2,Earth Offices – Situ (Minister of Land and People),6,牧人,Herding Officer,府,Storekeeper,1,Administers herding officer.
+2,Earth Offices – Situ (Minister of Land and People),6,牧人,Herding Officer,徒,Laborer,60,Administers herding officer.
+2,Earth Offices – Situ (Minister of Land and People),7,牛人,Cattle Officer,下士,Junior Officer,4,Administers cattle officer.
+2,Earth Offices – Situ (Minister of Land and People),7,牛人,Cattle Officer,中士,Middle Officer,2,Administers cattle officer.
+2,Earth Offices – Situ (Minister of Land and People),7,牛人,Cattle Officer,史,Scribe,4,Administers cattle officer.
+2,Earth Offices – Situ (Minister of Land and People),7,牛人,Cattle Officer,府,Storekeeper,2,Administers cattle officer.
+2,Earth Offices – Situ (Minister of Land and People),7,牛人,Cattle Officer,徒,Laborer,200,Administers cattle officer.
+2,Earth Offices – Situ (Minister of Land and People),7,牛人,Cattle Officer,胥,Clerk,20,Administers cattle officer.
+2,Earth Offices – Situ (Minister of Land and People),8,充人,Provisioning Officer,下士,Junior Officer,2,Administers provisioning officer.
+2,Earth Offices – Situ (Minister of Land and People),8,充人,Provisioning Officer,史,Scribe,2,Administers provisioning officer.
+2,Earth Offices – Situ (Minister of Land and People),8,充人,Provisioning Officer,徒,Laborer,40,Administers provisioning officer.
+2,Earth Offices – Situ (Minister of Land and People),8,充人,Provisioning Officer,胥,Clerk,4,Administers provisioning officer.
+2,Earth Offices – Situ (Minister of Land and People),9,載師,Transport Master,上士,Senior Officer,2,Administers transport master.
+2,Earth Offices – Situ (Minister of Land and People),9,載師,Transport Master,中士,Middle Officer,4,Administers transport master.
+2,Earth Offices – Situ (Minister of Land and People),9,載師,Transport Master,史,Scribe,4,Administers transport master.
+2,Earth Offices – Situ (Minister of Land and People),9,載師,Transport Master,府,Storekeeper,2,Administers transport master.
+2,Earth Offices – Situ (Minister of Land and People),9,載師,Transport Master,徒,Laborer,60,Administers transport master.
+2,Earth Offices – Situ (Minister of Land and People),9,載師,Transport Master,胥,Clerk,6,Administers transport master.
+2,Earth Offices – Situ (Minister of Land and People),10,閭師,Neighborhood Master,中士,Middle Officer,2,Administers neighborhood master.
+2,Earth Offices – Situ (Minister of Land and People),10,閭師,Neighborhood Master,史,Scribe,2,Administers neighborhood master.
+2,Earth Offices – Situ (Minister of Land and People),10,閭師,Neighborhood Master,徒,Laborer,20,Administers neighborhood master.
+2,Earth Offices – Situ (Minister of Land and People),11,縣師,County Master,上士,Senior Officer,2,Administers county master.
+2,Earth Offices – Situ (Minister of Land and People),11,縣師,County Master,中士,Middle Officer,4,Administers county master.
+2,Earth Offices – Situ (Minister of Land and People),11,縣師,County Master,史,Scribe,4,Administers county master.
+2,Earth Offices – Situ (Minister of Land and People),11,縣師,County Master,府,Storekeeper,2,Administers county master.
+2,Earth Offices – Situ (Minister of Land and People),11,縣師,County Master,徒,Laborer,80,Administers county master.
+2,Earth Offices – Situ (Minister of Land and People),11,縣師,County Master,胥,Clerk,8,Administers county master.
+2,Earth Offices – Situ (Minister of Land and People),12,遺人,Relief Officer,下士,Junior Officer,4,Administers relief officer.
+2,Earth Offices – Situ (Minister of Land and People),12,遺人,Relief Officer,中士,Middle Officer,2,Administers relief officer.
+2,Earth Offices – Situ (Minister of Land and People),12,遺人,Relief Officer,史,Scribe,4,Administers relief officer.
+2,Earth Offices – Situ (Minister of Land and People),12,遺人,Relief Officer,府,Storekeeper,2,Administers relief officer.
+2,Earth Offices – Situ (Minister of Land and People),12,遺人,Relief Officer,徒,Laborer,40,Administers relief officer.
+2,Earth Offices – Situ (Minister of Land and People),12,遺人,Relief Officer,胥,Clerk,4,Administers relief officer.
+2,Earth Offices – Situ (Minister of Land and People),13,均人,Equalization Officer,下士,Junior Officer,4,Administers equalization officer.
+2,Earth Offices – Situ (Minister of Land and People),13,均人,Equalization Officer,中士,Middle Officer,2,Administers equalization officer.
+2,Earth Offices – Situ (Minister of Land and People),13,均人,Equalization Officer,史,Scribe,4,Administers equalization officer.
+2,Earth Offices – Situ (Minister of Land and People),13,均人,Equalization Officer,府,Storekeeper,2,Administers equalization officer.
+2,Earth Offices – Situ (Minister of Land and People),13,均人,Equalization Officer,徒,Laborer,40,Administers equalization officer.
+2,Earth Offices – Situ (Minister of Land and People),13,均人,Equalization Officer,胥,Clerk,4,Administers equalization officer.
+2,Earth Offices – Situ (Minister of Land and People),14,保氏,Protection Master,下大夫,Lower Grand Officer,1,Administers protection master.
+2,Earth Offices – Situ (Minister of Land and People),14,保氏,Protection Master,中士,Middle Officer,2,Administers protection master.
+2,Earth Offices – Situ (Minister of Land and People),14,保氏,Protection Master,史,Scribe,2,Administers protection master.
+2,Earth Offices – Situ (Minister of Land and People),14,保氏,Protection Master,府,Storekeeper,2,Administers protection master.
+2,Earth Offices – Situ (Minister of Land and People),14,保氏,Protection Master,徒,Laborer,60,Administers protection master.
+2,Earth Offices – Situ (Minister of Land and People),14,保氏,Protection Master,胥,Clerk,6,Administers protection master.
+2,Earth Offices – Situ (Minister of Land and People),14,師氏,Instruction Master,上士,Senior Officer,2,Administers instruction master.
+2,Earth Offices – Situ (Minister of Land and People),14,師氏,Instruction Master,中大夫,Middle Grand Officer,1,Administers instruction master.
+2,Earth Offices – Situ (Minister of Land and People),14,師氏,Instruction Master,史,Scribe,2,Administers instruction master.
+2,Earth Offices – Situ (Minister of Land and People),14,師氏,Instruction Master,府,Storekeeper,2,Administers instruction master.
+2,Earth Offices – Situ (Minister of Land and People),14,師氏,Instruction Master,徒,Laborer,120,Administers instruction master.
+2,Earth Offices – Situ (Minister of Land and People),14,師氏,Instruction Master,胥,Clerk,12,Administers instruction master.
+2,Earth Offices – Situ (Minister of Land and People),15,司諫,Director of Admonition,中士,Middle Officer,2,Administers director of admonition.
+2,Earth Offices – Situ (Minister of Land and People),15,司諫,Director of Admonition,史,Scribe,2,Administers director of admonition.
+2,Earth Offices – Situ (Minister of Land and People),15,司諫,Director of Admonition,徒,Laborer,20,Administers director of admonition.
+2,Earth Offices – Situ (Minister of Land and People),16,司救,Director of Rescue,中士,Middle Officer,2,Administers director of rescue.
+2,Earth Offices – Situ (Minister of Land and People),16,司救,Director of Rescue,史,Scribe,2,Administers director of rescue.
+2,Earth Offices – Situ (Minister of Land and People),16,司救,Director of Rescue,徒,Laborer,20,Administers director of rescue.
+2,Earth Offices – Situ (Minister of Land and People),17,調人,Mediator,下士,Junior Officer,2,Administers mediator.
+2,Earth Offices – Situ (Minister of Land and People),17,調人,Mediator,史,Scribe,2,Administers mediator.
+2,Earth Offices – Situ (Minister of Land and People),17,調人,Mediator,徒,Laborer,10,Administers mediator.
+2,Earth Offices – Situ (Minister of Land and People),18,媒氏,Marriage Official,下士,Junior Officer,2,Administers marriage official.
+2,Earth Offices – Situ (Minister of Land and People),18,媒氏,Marriage Official,史,Scribe,2,Administers marriage official.
+2,Earth Offices – Situ (Minister of Land and People),18,媒氏,Marriage Official,徒,Laborer,10,Administers marriage official.
+2,Earth Offices – Situ (Minister of Land and People),19,司市,Director of Markets,上士,Senior Officer,4,Regulates markets.
+2,Earth Offices – Situ (Minister of Land and People),19,司市,Director of Markets,下士,Junior Officer,16,Regulates markets.
+2,Earth Offices – Situ (Minister of Land and People),19,司市,Director of Markets,下大夫,Lower Grand Officer,2,Regulates markets.
+2,Earth Offices – Situ (Minister of Land and People),19,司市,Director of Markets,中士,Middle Officer,8,Regulates markets.
+2,Earth Offices – Situ (Minister of Land and People),19,司市,Director of Markets,史,Scribe,8,Regulates markets.
+2,Earth Offices – Situ (Minister of Land and People),19,司市,Director of Markets,府,Storekeeper,4,Regulates markets.
+2,Earth Offices – Situ (Minister of Land and People),19,司市,Director of Markets,徒,Laborer,120,Regulates markets.
+2,Earth Offices – Situ (Minister of Land and People),19,司市,Director of Markets,胥,Clerk,12,Regulates markets.
+2,Earth Offices – Situ (Minister of Land and People),20,質人,Pledges Officer,下士,Junior Officer,4,Administers pledges officer.
+2,Earth Offices – Situ (Minister of Land and People),20,質人,Pledges Officer,中士,Middle Officer,2,Administers pledges officer.
+2,Earth Offices – Situ (Minister of Land and People),20,質人,Pledges Officer,史,Scribe,4,Administers pledges officer.
+2,Earth Offices – Situ (Minister of Land and People),20,質人,Pledges Officer,府,Storekeeper,2,Administers pledges officer.
+2,Earth Offices – Situ (Minister of Land and People),20,質人,Pledges Officer,徒,Laborer,20,Administers pledges officer.
+2,Earth Offices – Situ (Minister of Land and People),20,質人,Pledges Officer,胥,Clerk,2,Administers pledges officer.
+2,Earth Offices – Situ (Minister of Land and People),21,廛人,Market Stall Officer,下士,Junior Officer,4,Regulates markets.
+2,Earth Offices – Situ (Minister of Land and People),21,廛人,Market Stall Officer,中士,Middle Officer,2,Regulates markets.
+2,Earth Offices – Situ (Minister of Land and People),21,廛人,Market Stall Officer,史,Scribe,4,Regulates markets.
+2,Earth Offices – Situ (Minister of Land and People),21,廛人,Market Stall Officer,府,Storekeeper,2,Regulates markets.
+2,Earth Offices – Situ (Minister of Land and People),21,廛人,Market Stall Officer,徒,Laborer,20,Regulates markets.
+2,Earth Offices – Situ (Minister of Land and People),21,廛人,Market Stall Officer,胥,Clerk,2,Regulates markets.
+2,Earth Offices – Situ (Minister of Land and People),23,泉府,Currency Treasury,上士,Senior Officer,4,Manages state finances.
+2,Earth Offices – Situ (Minister of Land and People),23,泉府,Currency Treasury,下士,Junior Officer,16,Manages state finances.
+2,Earth Offices – Situ (Minister of Land and People),23,泉府,Currency Treasury,中士,Middle Officer,8,Manages state finances.
+2,Earth Offices – Situ (Minister of Land and People),23,泉府,Currency Treasury,史,Scribe,8,Manages state finances.
+2,Earth Offices – Situ (Minister of Land and People),23,泉府,Currency Treasury,府,Storekeeper,4,Manages state finances.
+2,Earth Offices – Situ (Minister of Land and People),23,泉府,Currency Treasury,徒,Laborer,80,Manages state finances.
+2,Earth Offices – Situ (Minister of Land and People),23,泉府,Currency Treasury,賈,Merchant,8,Manages state finances.
+2,Earth Offices – Situ (Minister of Land and People),24,司門,Director of Gates,上士,Senior Officer,4,Guards palace or city.
+2,Earth Offices – Situ (Minister of Land and People),24,司門,Director of Gates,下士,Junior Officer,2,Guards palace or city.
+2,Earth Offices – Situ (Minister of Land and People),24,司門,Director of Gates,下士,Junior Officer,16,Guards palace or city.
+2,Earth Offices – Situ (Minister of Land and People),24,司門,Director of Gates,下大夫,Lower Grand Officer,2,Guards palace or city.
+2,Earth Offices – Situ (Minister of Land and People),24,司門,Director of Gates,中士,Middle Officer,8,Guards palace or city.
+2,Earth Offices – Situ (Minister of Land and People),24,司門,Director of Gates,史,Scribe,2,Guards palace or city.
+2,Earth Offices – Situ (Minister of Land and People),24,司門,Director of Gates,史,Scribe,4,Guards palace or city.
+2,Earth Offices – Situ (Minister of Land and People),24,司門,Director of Gates,府,Storekeeper,1,Guards palace or city.
+2,Earth Offices – Situ (Minister of Land and People),24,司門,Director of Gates,府,Storekeeper,2,Guards palace or city.
+2,Earth Offices – Situ (Minister of Land and People),24,司門,Director of Gates,徒,Laborer,4,Guards palace or city.
+2,Earth Offices – Situ (Minister of Land and People),24,司門,Director of Gates,徒,Laborer,40,Guards palace or city.
+2,Earth Offices – Situ (Minister of Land and People),24,司門,Director of Gates,胥,Clerk,4,Guards palace or city.
+2,Earth Offices – Situ (Minister of Land and People),25,司關,Director of Passes,上士,Senior Officer,2,Administers director of passes.
+2,Earth Offices – Situ (Minister of Land and People),25,司關,Director of Passes,下士,Junior Officer,2,Administers director of passes.
+2,Earth Offices – Situ (Minister of Land and People),25,司關,Director of Passes,中士,Middle Officer,4,Administers director of passes.
+2,Earth Offices – Situ (Minister of Land and People),25,司關,Director of Passes,史,Scribe,2,Administers director of passes.
+2,Earth Offices – Situ (Minister of Land and People),25,司關,Director of Passes,史,Scribe,4,Administers director of passes.
+2,Earth Offices – Situ (Minister of Land and People),25,司關,Director of Passes,府,Storekeeper,1,Administers director of passes.
+2,Earth Offices – Situ (Minister of Land and People),25,司關,Director of Passes,府,Storekeeper,2,Administers director of passes.
+2,Earth Offices – Situ (Minister of Land and People),25,司關,Director of Passes,徒,Laborer,4,Administers director of passes.
+2,Earth Offices – Situ (Minister of Land and People),25,司關,Director of Passes,徒,Laborer,80,Administers director of passes.
+2,Earth Offices – Situ (Minister of Land and People),25,司關,Director of Passes,胥,Clerk,8,Administers director of passes.
+2,Earth Offices – Situ (Minister of Land and People),26,掌節,Manager of Tallies,上士,Senior Officer,2,Administers manager of tallies.
+2,Earth Offices – Situ (Minister of Land and People),26,掌節,Manager of Tallies,中士,Middle Officer,4,Administers manager of tallies.
+2,Earth Offices – Situ (Minister of Land and People),26,掌節,Manager of Tallies,史,Scribe,4,Administers manager of tallies.
+2,Earth Offices – Situ (Minister of Land and People),26,掌節,Manager of Tallies,府,Storekeeper,2,Administers manager of tallies.
+2,Earth Offices – Situ (Minister of Land and People),26,掌節,Manager of Tallies,徒,Laborer,20,Administers manager of tallies.
+2,Earth Offices – Situ (Minister of Land and People),26,掌節,Manager of Tallies,胥,Clerk,2,Administers manager of tallies.
+2,Earth Offices – Situ (Minister of Land and People),27,遂人,District Officer,中大夫,Middle Grand Officer,2,Administers district officer.
+2,Earth Offices – Situ (Minister of Land and People),27,遂師,District Master,上士,Senior Officer,8,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),27,遂師,District Master,下大夫,Lower Grand Officer,4,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),27,遂師,District Master,中士,Middle Officer,16,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),27,遂師,District Master,史,Scribe,12,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),27,遂師,District Master,府,Storekeeper,4,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),27,遂師,District Master,徒,Laborer,120,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),27,遂師,District Master,旅下士,Retinue Junior Officer,32,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),27,遂師,District Master,胥,Clerk,12,Administers district master.
+2,Earth Offices – Situ (Minister of Land and People),28,縣正,County Chief,下大夫,Lower Grand Officer,1,Administers county chief.
+2,Earth Offices – Situ (Minister of Land and People),28,遂大夫,District Grand Officer,中大夫,Middle Grand Officer,1,Administers district grand officer.
+2,Earth Offices – Situ (Minister of Land and People),28,鄙師,Borderland Master,上士,Senior Officer,1,Administers borderland master.
+2,Earth Offices – Situ (Minister of Land and People),28,酂長,Hamlet Chief,中士,Middle Officer,1,Administers hamlet chief.
+2,Earth Offices – Situ (Minister of Land and People),28,里宰,Village Steward,下士,Junior Officer,1,Administers village steward.
+2,Earth Offices – Situ (Minister of Land and People),29,旅師,Brigade Master,下士,Junior Officer,8,Administers brigade master.
+2,Earth Offices – Situ (Minister of Land and People),29,旅師,Brigade Master,中士,Middle Officer,4,Administers brigade master.
+2,Earth Offices – Situ (Minister of Land and People),29,旅師,Brigade Master,史,Scribe,4,Administers brigade master.
+2,Earth Offices – Situ (Minister of Land and People),29,旅師,Brigade Master,府,Storekeeper,2,Administers brigade master.
+2,Earth Offices – Situ (Minister of Land and People),29,旅師,Brigade Master,徒,Laborer,80,Administers brigade master.
+2,Earth Offices – Situ (Minister of Land and People),29,旅師,Brigade Master,胥,Clerk,8,Administers brigade master.
+2,Earth Offices – Situ (Minister of Land and People),30,稍人,Minor Levy Officer,下士,Junior Officer,4,Administers minor levy officer.
+2,Earth Offices – Situ (Minister of Land and People),30,稍人,Minor Levy Officer,史,Scribe,2,Administers minor levy officer.
+2,Earth Offices – Situ (Minister of Land and People),30,稍人,Minor Levy Officer,徒,Laborer,12,Administers minor levy officer.
+2,Earth Offices – Situ (Minister of Land and People),31,委人,Store Officer,下士,Junior Officer,4,Administers store officer.
+2,Earth Offices – Situ (Minister of Land and People),31,委人,Store Officer,中士,Middle Officer,2,Administers store officer.
+2,Earth Offices – Situ (Minister of Land and People),31,委人,Store Officer,史,Scribe,4,Administers store officer.
+2,Earth Offices – Situ (Minister of Land and People),31,委人,Store Officer,府,Storekeeper,2,Administers store officer.
+2,Earth Offices – Situ (Minister of Land and People),31,委人,Store Officer,徒,Laborer,40,Administers store officer.
+2,Earth Offices – Situ (Minister of Land and People),32,土均,Land Equalization Officer,上士,Senior Officer,2,Administers land equalization officer.
+2,Earth Offices – Situ (Minister of Land and People),32,土均,Land Equalization Officer,下士,Junior Officer,8,Administers land equalization officer.
+2,Earth Offices – Situ (Minister of Land and People),32,土均,Land Equalization Officer,中士,Middle Officer,4,Administers land equalization officer.
+2,Earth Offices – Situ (Minister of Land and People),32,土均,Land Equalization Officer,史,Scribe,4,Administers land equalization officer.
+2,Earth Offices – Situ (Minister of Land and People),32,土均,Land Equalization Officer,府,Storekeeper,2,Administers land equalization officer.
+2,Earth Offices – Situ (Minister of Land and People),32,土均,Land Equalization Officer,徒,Laborer,40,Administers land equalization officer.
+2,Earth Offices – Situ (Minister of Land and People),32,土均,Land Equalization Officer,胥,Clerk,4,Administers land equalization officer.
+2,Earth Offices – Situ (Minister of Land and People),32,草人,Grasslands Officer,下士,Junior Officer,4,Administers grasslands officer.
+2,Earth Offices – Situ (Minister of Land and People),32,草人,Grasslands Officer,史,Scribe,2,Administers grasslands officer.
+2,Earth Offices – Situ (Minister of Land and People),32,草人,Grasslands Officer,徒,Laborer,12,Administers grasslands officer.
+2,Earth Offices – Situ (Minister of Land and People),33,稻人,Rice Officer,上士,Senior Officer,2,Supervises agriculture.
+2,Earth Offices – Situ (Minister of Land and People),33,稻人,Rice Officer,下士,Junior Officer,8,Supervises agriculture.
+2,Earth Offices – Situ (Minister of Land and People),33,稻人,Rice Officer,中士,Middle Officer,4,Supervises agriculture.
+2,Earth Offices – Situ (Minister of Land and People),33,稻人,Rice Officer,史,Scribe,4,Supervises agriculture.
+2,Earth Offices – Situ (Minister of Land and People),33,稻人,Rice Officer,府,Storekeeper,2,Supervises agriculture.
+2,Earth Offices – Situ (Minister of Land and People),33,稻人,Rice Officer,徒,Laborer,100,Supervises agriculture.
+2,Earth Offices – Situ (Minister of Land and People),33,稻人,Rice Officer,胥,Clerk,10,Supervises agriculture.
+2,Earth Offices – Situ (Minister of Land and People),34,土訓,Land Instructor,下士,Junior Officer,4,Administers land instructor.
+2,Earth Offices – Situ (Minister of Land and People),34,土訓,Land Instructor,中士,Middle Officer,2,Administers land instructor.
+2,Earth Offices – Situ (Minister of Land and People),34,土訓,Land Instructor,史,Scribe,2,Administers land instructor.
+2,Earth Offices – Situ (Minister of Land and People),34,土訓,Land Instructor,徒,Laborer,8,Administers land instructor.
+2,Earth Offices – Situ (Minister of Land and People),35,誦訓,Recitation Instructor,下士,Junior Officer,4,Administers recitation instructor.
+2,Earth Offices – Situ (Minister of Land and People),35,誦訓,Recitation Instructor,中士,Middle Officer,2,Administers recitation instructor.
+2,Earth Offices – Situ (Minister of Land and People),35,誦訓,Recitation Instructor,史,Scribe,2,Administers recitation instructor.
+2,Earth Offices – Situ (Minister of Land and People),35,誦訓,Recitation Instructor,徒,Laborer,8,Administers recitation instructor.
+2,Earth Offices – Situ (Minister of Land and People),36,山虞,山虞,下士,Junior Officer,2,Administers 山虞.
+2,Earth Offices – Situ (Minister of Land and People),36,山虞,山虞,下士,Junior Officer,6,Administers 山虞.
+2,Earth Offices – Situ (Minister of Land and People),36,山虞,山虞,下士,Junior Officer,8,Administers 山虞.
+2,Earth Offices – Situ (Minister of Land and People),36,山虞,山虞,中士,Middle Officer,4,Administers 山虞.
+2,Earth Offices – Situ (Minister of Land and People),36,山虞,山虞,史,Scribe,1,Administers 山虞.
+2,Earth Offices – Situ (Minister of Land and People),36,山虞,山虞,史,Scribe,2,Administers 山虞.
+2,Earth Offices – Situ (Minister of Land and People),36,山虞,山虞,史,Scribe,4,Administers 山虞.
+2,Earth Offices – Situ (Minister of Land and People),36,山虞,山虞,府,Storekeeper,2,Administers 山虞.
+2,Earth Offices – Situ (Minister of Land and People),36,山虞,山虞,徒,Laborer,20,Administers 山虞.
+2,Earth Offices – Situ (Minister of Land and People),36,山虞,山虞,徒,Laborer,60,Administers 山虞.
+2,Earth Offices – Situ (Minister of Land and People),36,山虞,山虞,徒,Laborer,80,Administers 山虞.
+2,Earth Offices – Situ (Minister of Land and People),36,山虞,山虞,胥,Clerk,6,Administers 山虞.
+2,Earth Offices – Situ (Minister of Land and People),36,山虞,山虞,胥,Clerk,8,Administers 山虞.
+2,Earth Offices – Situ (Minister of Land and People),37,林衡,Forest Warden,下士,Junior Officer,12,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),37,林衡,Forest Warden,史,Scribe,4,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),37,林衡,Forest Warden,徒,Laborer,120,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),37,林衡,Forest Warden,胥,Clerk,12,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),38,川衡,River Warden,下士,Junior Officer,2,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),38,川衡,River Warden,下士,Junior Officer,6,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),38,川衡,River Warden,下士,Junior Officer,12,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),38,川衡,River Warden,史,Scribe,1,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),38,川衡,River Warden,史,Scribe,2,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),38,川衡,River Warden,史,Scribe,4,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),38,川衡,River Warden,徒,Laborer,20,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),38,川衡,River Warden,徒,Laborer,60,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),38,川衡,River Warden,徒,Laborer,120,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),38,川衡,River Warden,胥,Clerk,6,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),38,川衡,River Warden,胥,Clerk,12,Manages natural resources.
+2,Earth Offices – Situ (Minister of Land and People),39,澤虞,澤虞,下士,Junior Officer,8,Administers 澤虞.
+2,Earth Offices – Situ (Minister of Land and People),39,澤虞,澤虞,中士,Middle Officer,4,Administers 澤虞.
+2,Earth Offices – Situ (Minister of Land and People),39,澤虞,澤虞,史,Scribe,4,Administers 澤虞.
+2,Earth Offices – Situ (Minister of Land and People),39,澤虞,澤虞,府,Storekeeper,2,Administers 澤虞.
+2,Earth Offices – Situ (Minister of Land and People),39,澤虞,澤虞,徒,Laborer,80,Administers 澤虞.
+2,Earth Offices – Situ (Minister of Land and People),39,澤虞,澤虞,胥,Clerk,8,Administers 澤虞.
+2,Earth Offices – Situ (Minister of Land and People),40,迹人,Tracker,下士,Junior Officer,8,Administers tracker.
+2,Earth Offices – Situ (Minister of Land and People),40,迹人,Tracker,中士,Middle Officer,4,Administers tracker.
+2,Earth Offices – Situ (Minister of Land and People),40,迹人,Tracker,史,Scribe,2,Administers tracker.
+2,Earth Offices – Situ (Minister of Land and People),40,迹人,Tracker,徒,Laborer,40,Administers tracker.
+2,Earth Offices – Situ (Minister of Land and People),41,卝人,Minerals Officer,下士,Junior Officer,4,Administers minerals officer.
+2,Earth Offices – Situ (Minister of Land and People),41,卝人,Minerals Officer,中士,Middle Officer,2,Administers minerals officer.
+2,Earth Offices – Situ (Minister of Land and People),41,卝人,Minerals Officer,史,Scribe,2,Administers minerals officer.
+2,Earth Offices – Situ (Minister of Land and People),41,卝人,Minerals Officer,府,Storekeeper,2,Administers minerals officer.
+2,Earth Offices – Situ (Minister of Land and People),41,卝人,Minerals Officer,徒,Laborer,40,Administers minerals officer.
+2,Earth Offices – Situ (Minister of Land and People),41,卝人,Minerals Officer,胥,Clerk,4,Administers minerals officer.
+2,Earth Offices – Situ (Minister of Land and People),42,角人,Horns Officer,下士,Junior Officer,2,Administers horns officer.
+2,Earth Offices – Situ (Minister of Land and People),42,角人,Horns Officer,府,Storekeeper,1,Administers horns officer.
+2,Earth Offices – Situ (Minister of Land and People),42,角人,Horns Officer,徒,Laborer,8,Administers horns officer.
+2,Earth Offices – Situ (Minister of Land and People),43,羽人,Feathers Officer,下士,Junior Officer,2,Administers feathers officer.
+2,Earth Offices – Situ (Minister of Land and People),43,羽人,Feathers Officer,府,Storekeeper,1,Administers feathers officer.
+2,Earth Offices – Situ (Minister of Land and People),43,羽人,Feathers Officer,徒,Laborer,8,Administers feathers officer.
+2,Earth Offices – Situ (Minister of Land and People),44,掌葛,Manager of Kudzu,下士,Junior Officer,2,Administers manager of kudzu.
+2,Earth Offices – Situ (Minister of Land and People),44,掌葛,Manager of Kudzu,史,Scribe,1,Administers manager of kudzu.
+2,Earth Offices – Situ (Minister of Land and People),44,掌葛,Manager of Kudzu,府,Storekeeper,1,Administers manager of kudzu.
+2,Earth Offices – Situ (Minister of Land and People),44,掌葛,Manager of Kudzu,徒,Laborer,20,Administers manager of kudzu.
+2,Earth Offices – Situ (Minister of Land and People),44,掌葛,Manager of Kudzu,胥,Clerk,2,Administers manager of kudzu.
+2,Earth Offices – Situ (Minister of Land and People),45,掌染草,Manager of Dye Plants,下士,Junior Officer,2,Administers manager of dye plants.
+2,Earth Offices – Situ (Minister of Land and People),45,掌染草,Manager of Dye Plants,史,Scribe,2,Administers manager of dye plants.
+2,Earth Offices – Situ (Minister of Land and People),45,掌染草,Manager of Dye Plants,府,Storekeeper,1,Administers manager of dye plants.
+2,Earth Offices – Situ (Minister of Land and People),45,掌染草,Manager of Dye Plants,徒,Laborer,8,Administers manager of dye plants.
+2,Earth Offices – Situ (Minister of Land and People),46,掌炭,Manager of Charcoal,下士,Junior Officer,2,Administers manager of charcoal.
+2,Earth Offices – Situ (Minister of Land and People),46,掌炭,Manager of Charcoal,史,Scribe,2,Administers manager of charcoal.
+2,Earth Offices – Situ (Minister of Land and People),46,掌炭,Manager of Charcoal,徒,Laborer,20,Administers manager of charcoal.
+2,Earth Offices – Situ (Minister of Land and People),47,掌荼,Manager of Reeds,下士,Junior Officer,2,Administers manager of reeds.
+2,Earth Offices – Situ (Minister of Land and People),47,掌荼,Manager of Reeds,史,Scribe,1,Administers manager of reeds.
+2,Earth Offices – Situ (Minister of Land and People),47,掌荼,Manager of Reeds,府,Storekeeper,1,Administers manager of reeds.
+2,Earth Offices – Situ (Minister of Land and People),47,掌荼,Manager of Reeds,徒,Laborer,20,Administers manager of reeds.
+2,Earth Offices – Situ (Minister of Land and People),48,掌蜃,Manager of Clams,下士,Junior Officer,2,Administers manager of clams.
+2,Earth Offices – Situ (Minister of Land and People),48,掌蜃,Manager of Clams,史,Scribe,1,Administers manager of clams.
+2,Earth Offices – Situ (Minister of Land and People),48,掌蜃,Manager of Clams,府,Storekeeper,1,Administers manager of clams.
+2,Earth Offices – Situ (Minister of Land and People),48,掌蜃,Manager of Clams,徒,Laborer,8,Administers manager of clams.
+2,Earth Offices – Situ (Minister of Land and People),49,囿人,Park Officer,下士,Junior Officer,8,Administers park officer.
+2,Earth Offices – Situ (Minister of Land and People),49,囿人,Park Officer,中士,Middle Officer,4,Administers park officer.
+2,Earth Offices – Situ (Minister of Land and People),49,囿人,Park Officer,府,Storekeeper,2,Administers park officer.
+2,Earth Offices – Situ (Minister of Land and People),49,囿人,Park Officer,徒,Laborer,80,Administers park officer.
+2,Earth Offices – Situ (Minister of Land and People),49,囿人,Park Officer,胥,Clerk,8,Administers park officer.
+2,Earth Offices – Situ (Minister of Land and People),50,場人,場 Officer,下士,Junior Officer,2,Administers 場 officer.
+2,Earth Offices – Situ (Minister of Land and People),50,場人,場 Officer,史,Scribe,1,Administers 場 officer.
+2,Earth Offices – Situ (Minister of Land and People),50,場人,場 Officer,府,Storekeeper,1,Administers 場 officer.
+2,Earth Offices – Situ (Minister of Land and People),50,場人,場 Officer,徒,Laborer,20,Administers 場 officer.
+2,Earth Offices – Situ (Minister of Land and People),51,廩人,Granary Officer,上士,Senior Officer,4,Administers granary officer.
+2,Earth Offices – Situ (Minister of Land and People),51,廩人,Granary Officer,下士,Junior Officer,16,Administers granary officer.
+2,Earth Offices – Situ (Minister of Land and People),51,廩人,Granary Officer,下大夫,Lower Grand Officer,2,Administers granary officer.
+2,Earth Offices – Situ (Minister of Land and People),51,廩人,Granary Officer,中士,Middle Officer,8,Administers granary officer.
+2,Earth Offices – Situ (Minister of Land and People),51,廩人,Granary Officer,史,Scribe,16,Administers granary officer.
+2,Earth Offices – Situ (Minister of Land and People),51,廩人,Granary Officer,府,Storekeeper,8,Administers granary officer.
+2,Earth Offices – Situ (Minister of Land and People),51,廩人,Granary Officer,徒,Laborer,300,Administers granary officer.
+2,Earth Offices – Situ (Minister of Land and People),51,廩人,Granary Officer,胥,Clerk,30,Administers granary officer.
+2,Earth Offices – Situ (Minister of Land and People),52,舍人,Storehouse Attendant,上士,Senior Officer,2,Administers storehouse attendant.
+2,Earth Offices – Situ (Minister of Land and People),52,舍人,Storehouse Attendant,中士,Middle Officer,4,Administers storehouse attendant.
+2,Earth Offices – Situ (Minister of Land and People),52,舍人,Storehouse Attendant,史,Scribe,4,Administers storehouse attendant.
+2,Earth Offices – Situ (Minister of Land and People),52,舍人,Storehouse Attendant,府,Storekeeper,2,Administers storehouse attendant.
+2,Earth Offices – Situ (Minister of Land and People),52,舍人,Storehouse Attendant,徒,Laborer,40,Administers storehouse attendant.
+2,Earth Offices – Situ (Minister of Land and People),52,舍人,Storehouse Attendant,胥,Clerk,4,Administers storehouse attendant.
+2,Earth Offices – Situ (Minister of Land and People),53,倉人,Warehouse Officer,下士,Junior Officer,8,Administers warehouse officer.
+2,Earth Offices – Situ (Minister of Land and People),53,倉人,Warehouse Officer,中士,Middle Officer,4,Administers warehouse officer.
+2,Earth Offices – Situ (Minister of Land and People),53,倉人,Warehouse Officer,史,Scribe,4,Administers warehouse officer.
+2,Earth Offices – Situ (Minister of Land and People),53,倉人,Warehouse Officer,府,Storekeeper,2,Administers warehouse officer.
+2,Earth Offices – Situ (Minister of Land and People),53,倉人,Warehouse Officer,徒,Laborer,40,Administers warehouse officer.
+2,Earth Offices – Situ (Minister of Land and People),53,倉人,Warehouse Officer,胥,Clerk,4,Administers warehouse officer.
+2,Earth Offices – Situ (Minister of Land and People),54,司祿,Director of Salaries,下士,Junior Officer,8,Administers director of salaries.
+2,Earth Offices – Situ (Minister of Land and People),54,司祿,Director of Salaries,中士,Middle Officer,4,Administers director of salaries.
+2,Earth Offices – Situ (Minister of Land and People),54,司祿,Director of Salaries,史,Scribe,4,Administers director of salaries.
+2,Earth Offices – Situ (Minister of Land and People),54,司祿,Director of Salaries,府,Storekeeper,2,Administers director of salaries.
+2,Earth Offices – Situ (Minister of Land and People),54,司祿,Director of Salaries,徒,Laborer,40,Administers director of salaries.
+2,Earth Offices – Situ (Minister of Land and People),55,司稼,Director of Agriculture,下士,Junior Officer,8,Supervises agriculture.
+2,Earth Offices – Situ (Minister of Land and People),55,司稼,Director of Agriculture,史,Scribe,4,Supervises agriculture.
+2,Earth Offices – Situ (Minister of Land and People),55,司稼,Director of Agriculture,徒,Laborer,40,Supervises agriculture.
+2,Earth Offices – Situ (Minister of Land and People),56,舂人,Pounding Worker,奄,Palace Servant,2,Administers pounding worker.
+2,Earth Offices – Situ (Minister of Land and People),56,舂人,Pounding Worker,奚,Servant,5,Administers pounding worker.
+2,Earth Offices – Situ (Minister of Land and People),56,舂人,Pounding Worker,女舂抌,Female Pounder,2,Administers pounding worker.
+2,Earth Offices – Situ (Minister of Land and People),57,饎人,Cooked Grain Worker,奄,Palace Servant,2,Supplies food for court.
+2,Earth Offices – Situ (Minister of Land and People),57,饎人,Cooked Grain Worker,奚,Servant,40,Supplies food for court.
+2,Earth Offices – Situ (Minister of Land and People),57,饎人,Cooked Grain Worker,女饎,Female Grain Cook,8,Supplies food for court.
+2,Earth Offices – Situ (Minister of Land and People),58,槁人,Forage Worker,奄,Palace Servant,2,Administers forage worker.
+2,Earth Offices – Situ (Minister of Land and People),58,槁人,Forage Worker,奄,Palace Servant,8,Administers forage worker.
+2,Earth Offices – Situ (Minister of Land and People),58,槁人,Forage Worker,奚,Servant,5,Administers forage worker.
+3,Spring Offices – Zongbo (Minister of Rites),1,大宗伯,Grand Zongbo,卿,Minister,1,Administers grand zongbo.
+3,Spring Offices – Zongbo (Minister of Rites),1,小宗伯,Assistant Zongbo,中大夫,Middle Grand Officer,2,Administers assistant zongbo.
+3,Spring Offices – Zongbo (Minister of Rites),1,肆師,Ceremonial Master,上士,Senior Officer,8,Administers ceremonial master.
+3,Spring Offices – Zongbo (Minister of Rites),1,肆師,Ceremonial Master,下大夫,Lower Grand Officer,4,Administers ceremonial master.
+3,Spring Offices – Zongbo (Minister of Rites),1,肆師,Ceremonial Master,中士,Middle Officer,16,Administers ceremonial master.
+3,Spring Offices – Zongbo (Minister of Rites),1,肆師,Ceremonial Master,史,Scribe,12,Administers ceremonial master.
+3,Spring Offices – Zongbo (Minister of Rites),1,肆師,Ceremonial Master,府,Storekeeper,6,Administers ceremonial master.
+3,Spring Offices – Zongbo (Minister of Rites),1,肆師,Ceremonial Master,徒,Laborer,120,Administers ceremonial master.
+3,Spring Offices – Zongbo (Minister of Rites),1,肆師,Ceremonial Master,旅下士,Retinue Junior Officer,32,Administers ceremonial master.
+3,Spring Offices – Zongbo (Minister of Rites),1,肆師,Ceremonial Master,胥,Clerk,12,Administers ceremonial master.
+3,Spring Offices – Zongbo (Minister of Rites),2,郁人,Aromatic Herbs Officer,下士,Junior Officer,2,Administers aromatic herbs officer.
+3,Spring Offices – Zongbo (Minister of Rites),2,郁人,Aromatic Herbs Officer,史,Scribe,1,Administers aromatic herbs officer.
+3,Spring Offices – Zongbo (Minister of Rites),2,郁人,Aromatic Herbs Officer,府,Storekeeper,2,Administers aromatic herbs officer.
+3,Spring Offices – Zongbo (Minister of Rites),2,郁人,Aromatic Herbs Officer,徒,Laborer,8,Administers aromatic herbs officer.
+3,Spring Offices – Zongbo (Minister of Rites),3,司尊彝,Director of Ritual Vessels,下士,Junior Officer,2,Manages state rituals.
+3,Spring Offices – Zongbo (Minister of Rites),3,司尊彝,Director of Ritual Vessels,史,Scribe,2,Manages state rituals.
+3,Spring Offices – Zongbo (Minister of Rites),3,司尊彝,Director of Ritual Vessels,府,Storekeeper,4,Manages state rituals.
+3,Spring Offices – Zongbo (Minister of Rites),3,司尊彝,Director of Ritual Vessels,徒,Laborer,20,Manages state rituals.
+3,Spring Offices – Zongbo (Minister of Rites),3,司尊彝,Director of Ritual Vessels,胥,Clerk,2,Manages state rituals.
+3,Spring Offices – Zongbo (Minister of Rites),3,雞人,Cock Officer,下士,Junior Officer,1,Administers cock officer.
+3,Spring Offices – Zongbo (Minister of Rites),3,雞人,Cock Officer,史,Scribe,1,Administers cock officer.
+3,Spring Offices – Zongbo (Minister of Rites),3,雞人,Cock Officer,徒,Laborer,4,Administers cock officer.
+3,Spring Offices – Zongbo (Minister of Rites),3,鬯人,Sacrificial Ale Officer,下士,Junior Officer,2,Administers sacrificial ale officer.
+3,Spring Offices – Zongbo (Minister of Rites),3,鬯人,Sacrificial Ale Officer,史,Scribe,1,Administers sacrificial ale officer.
+3,Spring Offices – Zongbo (Minister of Rites),3,鬯人,Sacrificial Ale Officer,府,Storekeeper,1,Administers sacrificial ale officer.
+3,Spring Offices – Zongbo (Minister of Rites),3,鬯人,Sacrificial Ale Officer,徒,Laborer,8,Administers sacrificial ale officer.
+3,Spring Offices – Zongbo (Minister of Rites),5,司幾筵,Director of Mats and Tables,下士,Junior Officer,2,Administers director of mats and tables.
+3,Spring Offices – Zongbo (Minister of Rites),5,司幾筵,Director of Mats and Tables,史,Scribe,1,Administers director of mats and tables.
+3,Spring Offices – Zongbo (Minister of Rites),5,司幾筵,Director of Mats and Tables,府,Storekeeper,2,Administers director of mats and tables.
+3,Spring Offices – Zongbo (Minister of Rites),5,司幾筵,Director of Mats and Tables,徒,Laborer,8,Administers director of mats and tables.
+3,Spring Offices – Zongbo (Minister of Rites),5,天府,Heavenly Treasury,上士,Senior Officer,1,Manages state finances.
+3,Spring Offices – Zongbo (Minister of Rites),5,天府,Heavenly Treasury,中士,Middle Officer,2,Manages state finances.
+3,Spring Offices – Zongbo (Minister of Rites),5,天府,Heavenly Treasury,史,Scribe,2,Manages state finances.
+3,Spring Offices – Zongbo (Minister of Rites),5,天府,Heavenly Treasury,府,Storekeeper,4,Manages state finances.
+3,Spring Offices – Zongbo (Minister of Rites),5,天府,Heavenly Treasury,徒,Laborer,20,Manages state finances.
+3,Spring Offices – Zongbo (Minister of Rites),5,天府,Heavenly Treasury,胥,Clerk,2,Manages state finances.
+3,Spring Offices – Zongbo (Minister of Rites),6,典瑞,Director of Jades,中士,Middle Officer,2,Administers director of jades.
+3,Spring Offices – Zongbo (Minister of Rites),6,典瑞,Director of Jades,史,Scribe,2,Administers director of jades.
+3,Spring Offices – Zongbo (Minister of Rites),6,典瑞,Director of Jades,府,Storekeeper,2,Administers director of jades.
+3,Spring Offices – Zongbo (Minister of Rites),6,典瑞,Director of Jades,徒,Laborer,10,Administers director of jades.
+3,Spring Offices – Zongbo (Minister of Rites),6,典瑞,Director of Jades,胥,Clerk,1,Administers director of jades.
+3,Spring Offices – Zongbo (Minister of Rites),7,典命,Director of Appointments,中士,Middle Officer,2,Administers director of appointments.
+3,Spring Offices – Zongbo (Minister of Rites),7,典命,Director of Appointments,史,Scribe,2,Administers director of appointments.
+3,Spring Offices – Zongbo (Minister of Rites),7,典命,Director of Appointments,府,Storekeeper,2,Administers director of appointments.
+3,Spring Offices – Zongbo (Minister of Rites),7,典命,Director of Appointments,徒,Laborer,10,Administers director of appointments.
+3,Spring Offices – Zongbo (Minister of Rites),7,典命,Director of Appointments,胥,Clerk,1,Administers director of appointments.
+3,Spring Offices – Zongbo (Minister of Rites),8,司服,Director of Robes,中士,Middle Officer,2,Administers director of robes.
+3,Spring Offices – Zongbo (Minister of Rites),8,司服,Director of Robes,史,Scribe,1,Administers director of robes.
+3,Spring Offices – Zongbo (Minister of Rites),8,司服,Director of Robes,府,Storekeeper,2,Administers director of robes.
+3,Spring Offices – Zongbo (Minister of Rites),8,司服,Director of Robes,徒,Laborer,10,Administers director of robes.
+3,Spring Offices – Zongbo (Minister of Rites),8,司服,Director of Robes,胥,Clerk,1,Administers director of robes.
+3,Spring Offices – Zongbo (Minister of Rites),9,典祀,Director of Sacrifices,下士,Junior Officer,4,Administers director of sacrifices.
+3,Spring Offices – Zongbo (Minister of Rites),9,典祀,Director of Sacrifices,中士,Middle Officer,2,Administers director of sacrifices.
+3,Spring Offices – Zongbo (Minister of Rites),9,典祀,Director of Sacrifices,史,Scribe,2,Administers director of sacrifices.
+3,Spring Offices – Zongbo (Minister of Rites),9,典祀,Director of Sacrifices,府,Storekeeper,2,Administers director of sacrifices.
+3,Spring Offices – Zongbo (Minister of Rites),9,典祀,Director of Sacrifices,徒,Laborer,40,Administers director of sacrifices.
+3,Spring Offices – Zongbo (Minister of Rites),9,典祀,Director of Sacrifices,胥,Clerk,4,Administers director of sacrifices.
+3,Spring Offices – Zongbo (Minister of Rites),10,守祧,Temple Keeper,奄,Palace Servant,8,Administers temple keeper.
+3,Spring Offices – Zongbo (Minister of Rites),10,守祧,Temple Keeper,奚,Servant,4,Administers temple keeper.
+3,Spring Offices – Zongbo (Minister of Rites),11,世婦,世婦,下大夫,Lower Grand Officer,4,Administers 世婦.
+3,Spring Offices – Zongbo (Minister of Rites),11,世婦,世婦,中士,Middle Officer,8,Administers 世婦.
+3,Spring Offices – Zongbo (Minister of Rites),11,世婦,世婦,卿,Minister,2,Administers 世婦.
+3,Spring Offices – Zongbo (Minister of Rites),11,世婦,世婦,奚,Servant,16,Administers 世婦.
+3,Spring Offices – Zongbo (Minister of Rites),11,世婦,世婦,女史,Female Scribe,2,Administers 世婦.
+3,Spring Offices – Zongbo (Minister of Rites),11,世婦,世婦,女府,Female Storekeeper,2,Administers 世婦.
+3,Spring Offices – Zongbo (Minister of Rites),12,冢人,Tombs Officer,下大夫,Lower Grand Officer,2,Administers tombs officer.
+3,Spring Offices – Zongbo (Minister of Rites),12,冢人,Tombs Officer,中士,Middle Officer,4,Administers tombs officer.
+3,Spring Offices – Zongbo (Minister of Rites),12,冢人,Tombs Officer,史,Scribe,4,Administers tombs officer.
+3,Spring Offices – Zongbo (Minister of Rites),12,冢人,Tombs Officer,府,Storekeeper,2,Administers tombs officer.
+3,Spring Offices – Zongbo (Minister of Rites),12,冢人,Tombs Officer,徒,Laborer,120,Administers tombs officer.
+3,Spring Offices – Zongbo (Minister of Rites),12,冢人,Tombs Officer,胥,Clerk,12,Administers tombs officer.
+3,Spring Offices – Zongbo (Minister of Rites),12,墓大夫,Graves Grand Officer,下大夫,Lower Grand Officer,2,Administers graves grand officer.
+3,Spring Offices – Zongbo (Minister of Rites),12,墓大夫,Graves Grand Officer,中士,Middle Officer,8,Administers graves grand officer.
+3,Spring Offices – Zongbo (Minister of Rites),12,墓大夫,Graves Grand Officer,史,Scribe,4,Administers graves grand officer.
+3,Spring Offices – Zongbo (Minister of Rites),12,墓大夫,Graves Grand Officer,府,Storekeeper,2,Administers graves grand officer.
+3,Spring Offices – Zongbo (Minister of Rites),12,墓大夫,Graves Grand Officer,徒,Laborer,200,Administers graves grand officer.
+3,Spring Offices – Zongbo (Minister of Rites),12,墓大夫,Graves Grand Officer,胥,Clerk,20,Administers graves grand officer.
+3,Spring Offices – Zongbo (Minister of Rites),13,大司樂,Grand Director of Music,中大夫,Middle Grand Officer,2,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),13,樂師,Music Master,上士,Senior Officer,8,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),13,樂師,Music Master,下士,Junior Officer,16,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),13,樂師,Music Master,下大夫,Lower Grand Officer,4,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),13,樂師,Music Master,史,Scribe,8,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),13,樂師,Music Master,府,Storekeeper,4,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),13,樂師,Music Master,徒,Laborer,80,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),13,樂師,Music Master,胥,Clerk,8,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),13,職喪,Funerary Officer,上士,Senior Officer,2,Administers funerary officer.
+3,Spring Offices – Zongbo (Minister of Rites),13,職喪,Funerary Officer,下士,Junior Officer,8,Administers funerary officer.
+3,Spring Offices – Zongbo (Minister of Rites),13,職喪,Funerary Officer,中士,Middle Officer,4,Administers funerary officer.
+3,Spring Offices – Zongbo (Minister of Rites),13,職喪,Funerary Officer,史,Scribe,4,Administers funerary officer.
+3,Spring Offices – Zongbo (Minister of Rites),13,職喪,Funerary Officer,府,Storekeeper,2,Administers funerary officer.
+3,Spring Offices – Zongbo (Minister of Rites),13,職喪,Funerary Officer,徒,Laborer,40,Administers funerary officer.
+3,Spring Offices – Zongbo (Minister of Rites),13,職喪,Funerary Officer,胥,Clerk,4,Administers funerary officer.
+3,Spring Offices – Zongbo (Minister of Rites),14,大師,Grand Music Master,下大夫,Lower Grand Officer,2,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),14,大胥,Senior Music Clerk,中士,Middle Officer,4,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),14,小師,Assistant Music Master,上士,Senior Officer,4,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),14,小胥,Junior Music Clerk,下士,Junior Officer,8,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),14,小胥,Junior Music Clerk,史,Scribe,4,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),14,小胥,Junior Music Clerk,府,Storekeeper,2,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),14,小胥,Junior Music Clerk,徒,Laborer,40,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),14,瞽朦,Blind Music Master,上瞽,Senior Blind Musician,40,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),14,瞽朦,Blind Music Master,下瞽,Junior Blind Musician,160,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),14,瞽朦,Blind Music Master,中瞽,Middle Blind Musician,100,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),14,瞽朦,Blind Music Master,史,Scribe,8,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),14,瞽朦,Blind Music Master,府,Storekeeper,4,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),14,瞽朦,Blind Music Master,徒,Laborer,120,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),14,瞽朦,Blind Music Master,胥,Clerk,12,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),16,典同,Director of Harmonies,中士,Middle Officer,2,Administers director of harmonies.
+3,Spring Offices – Zongbo (Minister of Rites),16,典同,Director of Harmonies,史,Scribe,1,Administers director of harmonies.
+3,Spring Offices – Zongbo (Minister of Rites),16,典同,Director of Harmonies,府,Storekeeper,1,Administers director of harmonies.
+3,Spring Offices – Zongbo (Minister of Rites),16,典同,Director of Harmonies,徒,Laborer,20,Administers director of harmonies.
+3,Spring Offices – Zongbo (Minister of Rites),16,典同,Director of Harmonies,胥,Clerk,2,Administers director of harmonies.
+3,Spring Offices – Zongbo (Minister of Rites),17,磬師,Stone Chimes Master,下士,Junior Officer,8,Administers stone chimes master.
+3,Spring Offices – Zongbo (Minister of Rites),17,磬師,Stone Chimes Master,中士,Middle Officer,4,Administers stone chimes master.
+3,Spring Offices – Zongbo (Minister of Rites),17,磬師,Stone Chimes Master,史,Scribe,2,Administers stone chimes master.
+3,Spring Offices – Zongbo (Minister of Rites),17,磬師,Stone Chimes Master,府,Storekeeper,4,Administers stone chimes master.
+3,Spring Offices – Zongbo (Minister of Rites),17,磬師,Stone Chimes Master,徒,Laborer,40,Administers stone chimes master.
+3,Spring Offices – Zongbo (Minister of Rites),17,磬師,Stone Chimes Master,胥,Clerk,4,Administers stone chimes master.
+3,Spring Offices – Zongbo (Minister of Rites),18,鐘師,Bells Master,下士,Junior Officer,8,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),18,鐘師,Bells Master,中士,Middle Officer,4,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),18,鐘師,Bells Master,史,Scribe,2,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),18,鐘師,Bells Master,府,Storekeeper,2,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),18,鐘師,Bells Master,徒,Laborer,60,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),18,鐘師,Bells Master,胥,Clerk,6,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),19,笙師,Sheng Master,下士,Junior Officer,4,Administers sheng master.
+3,Spring Offices – Zongbo (Minister of Rites),19,笙師,Sheng Master,中士,Middle Officer,2,Administers sheng master.
+3,Spring Offices – Zongbo (Minister of Rites),19,笙師,Sheng Master,史,Scribe,2,Administers sheng master.
+3,Spring Offices – Zongbo (Minister of Rites),19,笙師,Sheng Master,府,Storekeeper,2,Administers sheng master.
+3,Spring Offices – Zongbo (Minister of Rites),19,笙師,Sheng Master,徒,Laborer,10,Administers sheng master.
+3,Spring Offices – Zongbo (Minister of Rites),19,笙師,Sheng Master,胥,Clerk,1,Administers sheng master.
+3,Spring Offices – Zongbo (Minister of Rites),20,鎛師,Bo Bell Master,下士,Junior Officer,4,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),20,鎛師,Bo Bell Master,中士,Middle Officer,2,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),20,鎛師,Bo Bell Master,史,Scribe,2,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),20,鎛師,Bo Bell Master,府,Storekeeper,2,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),20,鎛師,Bo Bell Master,徒,Laborer,20,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),20,鎛師,Bo Bell Master,胥,Clerk,2,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),21,韎師,Dance Regalia Master,下士,Junior Officer,2,Administers dance regalia master.
+3,Spring Offices – Zongbo (Minister of Rites),21,韎師,Dance Regalia Master,史,Scribe,1,Administers dance regalia master.
+3,Spring Offices – Zongbo (Minister of Rites),21,韎師,Dance Regalia Master,府,Storekeeper,1,Administers dance regalia master.
+3,Spring Offices – Zongbo (Minister of Rites),21,韎師,Dance Regalia Master,徒,Laborer,40,Administers dance regalia master.
+3,Spring Offices – Zongbo (Minister of Rites),21,韎師,Dance Regalia Master,舞者,Dancer,16,Administers dance regalia master.
+3,Spring Offices – Zongbo (Minister of Rites),22,旄人,Yak-Tail Banner Officer,下士,Junior Officer,4,Administers yak-tail banner officer.
+3,Spring Offices – Zongbo (Minister of Rites),22,舞者眾寡無數,"Dancers, number unspecified",史,Scribe,2,"Administers dancers, number unspecified."
+3,Spring Offices – Zongbo (Minister of Rites),22,舞者眾寡無數,"Dancers, number unspecified",府,Storekeeper,2,"Administers dancers, number unspecified."
+3,Spring Offices – Zongbo (Minister of Rites),22,舞者眾寡無數,"Dancers, number unspecified",徒,Laborer,20,"Administers dancers, number unspecified."
+3,Spring Offices – Zongbo (Minister of Rites),22,舞者眾寡無數,"Dancers, number unspecified",胥,Clerk,2,"Administers dancers, number unspecified."
+3,Spring Offices – Zongbo (Minister of Rites),23,龠師,Flute Master,中士,Middle Officer,4,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),23,龠師,Flute Master,史,Scribe,2,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),23,龠師,Flute Master,府,Storekeeper,2,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),23,龠師,Flute Master,徒,Laborer,20,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),23,龠師,Flute Master,胥,Clerk,2,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),24,龠章,Flute Signals Officer,下士,Junior Officer,4,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),24,龠章,Flute Signals Officer,中士,Middle Officer,2,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),24,龠章,Flute Signals Officer,史,Scribe,1,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),24,龠章,Flute Signals Officer,府,Storekeeper,1,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),24,龠章,Flute Signals Officer,徒,Laborer,20,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),24,龠章,Flute Signals Officer,胥,Clerk,2,Supervises ritual music.
+3,Spring Offices – Zongbo (Minister of Rites),25,鞮鞻氏,Sole-Makers' Officer,下士,Junior Officer,4,Administers sole-makers' officer.
+3,Spring Offices – Zongbo (Minister of Rites),25,鞮鞻氏,Sole-Makers' Officer,史,Scribe,1,Administers sole-makers' officer.
+3,Spring Offices – Zongbo (Minister of Rites),25,鞮鞻氏,Sole-Makers' Officer,府,Storekeeper,1,Administers sole-makers' officer.
+3,Spring Offices – Zongbo (Minister of Rites),25,鞮鞻氏,Sole-Makers' Officer,徒,Laborer,20,Administers sole-makers' officer.
+3,Spring Offices – Zongbo (Minister of Rites),25,鞮鞻氏,Sole-Makers' Officer,胥,Clerk,2,Administers sole-makers' officer.
+3,Spring Offices – Zongbo (Minister of Rites),26,典庸器,Director of Ritual Implements,下士,Junior Officer,4,Manages state rituals.
+3,Spring Offices – Zongbo (Minister of Rites),26,典庸器,Director of Ritual Implements,史,Scribe,2,Manages state rituals.
+3,Spring Offices – Zongbo (Minister of Rites),26,典庸器,Director of Ritual Implements,府,Storekeeper,4,Manages state rituals.
+3,Spring Offices – Zongbo (Minister of Rites),26,典庸器,Director of Ritual Implements,徒,Laborer,80,Manages state rituals.
+3,Spring Offices – Zongbo (Minister of Rites),26,典庸器,Director of Ritual Implements,胥,Clerk,8,Manages state rituals.
+3,Spring Offices – Zongbo (Minister of Rites),27,司干,Director of Shields,下士,Junior Officer,2,Manages military weapons.
+3,Spring Offices – Zongbo (Minister of Rites),27,司干,Director of Shields,史,Scribe,2,Manages military weapons.
+3,Spring Offices – Zongbo (Minister of Rites),27,司干,Director of Shields,府,Storekeeper,2,Manages military weapons.
+3,Spring Offices – Zongbo (Minister of Rites),27,司干,Director of Shields,徒,Laborer,20,Manages military weapons.
+3,Spring Offices – Zongbo (Minister of Rites),28,卜人,Diviner,下士,Junior Officer,16,Administers diviner.
+3,Spring Offices – Zongbo (Minister of Rites),28,卜人,Diviner,中士,Middle Officer,8,Administers diviner.
+3,Spring Offices – Zongbo (Minister of Rites),28,卜人,Diviner,史,Scribe,2,Administers diviner.
+3,Spring Offices – Zongbo (Minister of Rites),28,卜人,Diviner,府,Storekeeper,2,Administers diviner.
+3,Spring Offices – Zongbo (Minister of Rites),28,卜人,Diviner,徒,Laborer,40,Administers diviner.
+3,Spring Offices – Zongbo (Minister of Rites),28,卜人,Diviner,胥,Clerk,4,Administers diviner.
+3,Spring Offices – Zongbo (Minister of Rites),28,卜師,Divination Master,上士,Senior Officer,4,Administers divination master.
+3,Spring Offices – Zongbo (Minister of Rites),28,大卜,Grand Diviner,下大夫,Lower Grand Officer,2,Administers grand diviner.
+3,Spring Offices – Zongbo (Minister of Rites),28,龜人,Turtle Officer,中士,Middle Officer,2,Administers turtle officer.
+3,Spring Offices – Zongbo (Minister of Rites),28,龜人,Turtle Officer,史,Scribe,2,Administers turtle officer.
+3,Spring Offices – Zongbo (Minister of Rites),28,龜人,Turtle Officer,工,Artisan,4,Administers turtle officer.
+3,Spring Offices – Zongbo (Minister of Rites),28,龜人,Turtle Officer,府,Storekeeper,2,Administers turtle officer.
+3,Spring Offices – Zongbo (Minister of Rites),28,龜人,Turtle Officer,徒,Laborer,40,Administers turtle officer.
+3,Spring Offices – Zongbo (Minister of Rites),28,龜人,Turtle Officer,胥,Clerk,4,Administers turtle officer.
+3,Spring Offices – Zongbo (Minister of Rites),30,菙氏,Mallets Officer,下士,Junior Officer,2,Administers mallets officer.
+3,Spring Offices – Zongbo (Minister of Rites),30,菙氏,Mallets Officer,史,Scribe,1,Administers mallets officer.
+3,Spring Offices – Zongbo (Minister of Rites),30,菙氏,Mallets Officer,徒,Laborer,8,Administers mallets officer.
+3,Spring Offices – Zongbo (Minister of Rites),31,占人,Augury Officer,下士,Junior Officer,8,Administers augury officer.
+3,Spring Offices – Zongbo (Minister of Rites),31,占人,Augury Officer,史,Scribe,2,Administers augury officer.
+3,Spring Offices – Zongbo (Minister of Rites),31,占人,Augury Officer,府,Storekeeper,1,Administers augury officer.
+3,Spring Offices – Zongbo (Minister of Rites),31,占人,Augury Officer,徒,Laborer,8,Administers augury officer.
+3,Spring Offices – Zongbo (Minister of Rites),32,筮人,Milfoil Diviner,中士,Middle Officer,2,Administers milfoil diviner.
+3,Spring Offices – Zongbo (Minister of Rites),32,筮人,Milfoil Diviner,史,Scribe,2,Administers milfoil diviner.
+3,Spring Offices – Zongbo (Minister of Rites),32,筮人,Milfoil Diviner,府,Storekeeper,1,Administers milfoil diviner.
+3,Spring Offices – Zongbo (Minister of Rites),32,筮人,Milfoil Diviner,徒,Laborer,4,Administers milfoil diviner.
+3,Spring Offices – Zongbo (Minister of Rites),33,占夢,Dream Interpreter,中士,Middle Officer,2,Administers dream interpreter.
+3,Spring Offices – Zongbo (Minister of Rites),33,占夢,Dream Interpreter,史,Scribe,2,Administers dream interpreter.
+3,Spring Offices – Zongbo (Minister of Rites),33,占夢,Dream Interpreter,徒,Laborer,4,Administers dream interpreter.
+3,Spring Offices – Zongbo (Minister of Rites),34,視祲,Omen Watcher,中士,Middle Officer,2,Administers omen watcher.
+3,Spring Offices – Zongbo (Minister of Rites),34,視祲,Omen Watcher,史,Scribe,2,Administers omen watcher.
+3,Spring Offices – Zongbo (Minister of Rites),34,視祲,Omen Watcher,徒,Laborer,4,Administers omen watcher.
+3,Spring Offices – Zongbo (Minister of Rites),35,大祝,Grand Invocator,上士,Senior Officer,4,Administers grand invocator.
+3,Spring Offices – Zongbo (Minister of Rites),35,大祝,Grand Invocator,下大夫,Lower Grand Officer,2,Administers grand invocator.
+3,Spring Offices – Zongbo (Minister of Rites),35,小祝,Assistant Invocator,下士,Junior Officer,16,Administers assistant invocator.
+3,Spring Offices – Zongbo (Minister of Rites),35,小祝,Assistant Invocator,中士,Middle Officer,8,Administers assistant invocator.
+3,Spring Offices – Zongbo (Minister of Rites),35,小祝,Assistant Invocator,史,Scribe,4,Administers assistant invocator.
+3,Spring Offices – Zongbo (Minister of Rites),35,小祝,Assistant Invocator,府,Storekeeper,2,Administers assistant invocator.
+3,Spring Offices – Zongbo (Minister of Rites),35,小祝,Assistant Invocator,徒,Laborer,40,Administers assistant invocator.
+3,Spring Offices – Zongbo (Minister of Rites),35,小祝,Assistant Invocator,胥,Clerk,4,Administers assistant invocator.
+3,Spring Offices – Zongbo (Minister of Rites),36,喪祝,Funerary Invocator,上士,Senior Officer,2,Administers funerary invocator.
+3,Spring Offices – Zongbo (Minister of Rites),36,喪祝,Funerary Invocator,下士,Junior Officer,8,Administers funerary invocator.
+3,Spring Offices – Zongbo (Minister of Rites),36,喪祝,Funerary Invocator,中士,Middle Officer,4,Administers funerary invocator.
+3,Spring Offices – Zongbo (Minister of Rites),36,喪祝,Funerary Invocator,史,Scribe,2,Administers funerary invocator.
+3,Spring Offices – Zongbo (Minister of Rites),36,喪祝,Funerary Invocator,府,Storekeeper,2,Administers funerary invocator.
+3,Spring Offices – Zongbo (Minister of Rites),36,喪祝,Funerary Invocator,徒,Laborer,40,Administers funerary invocator.
+3,Spring Offices – Zongbo (Minister of Rites),36,喪祝,Funerary Invocator,胥,Clerk,4,Administers funerary invocator.
+3,Spring Offices – Zongbo (Minister of Rites),36,甸祝,Field Invocator,下士,Junior Officer,2,Administers field invocator.
+3,Spring Offices – Zongbo (Minister of Rites),36,甸祝,Field Invocator,史,Scribe,1,Administers field invocator.
+3,Spring Offices – Zongbo (Minister of Rites),36,甸祝,Field Invocator,府,Storekeeper,1,Administers field invocator.
+3,Spring Offices – Zongbo (Minister of Rites),36,甸祝,Field Invocator,徒,Laborer,4,Administers field invocator.
+3,Spring Offices – Zongbo (Minister of Rites),37,詛祝,Curse Invocator,下士,Junior Officer,2,Administers curse invocator.
+3,Spring Offices – Zongbo (Minister of Rites),37,詛祝,Curse Invocator,史,Scribe,1,Administers curse invocator.
+3,Spring Offices – Zongbo (Minister of Rites),37,詛祝,Curse Invocator,府,Storekeeper,1,Administers curse invocator.
+3,Spring Offices – Zongbo (Minister of Rites),37,詛祝,Curse Invocator,徒,Laborer,4,Administers curse invocator.
+3,Spring Offices – Zongbo (Minister of Rites),38,司巫,Director of Shamans,中士,Middle Officer,2,Administers director of shamans.
+3,Spring Offices – Zongbo (Minister of Rites),38,司巫,Director of Shamans,史,Scribe,1,Administers director of shamans.
+3,Spring Offices – Zongbo (Minister of Rites),38,司巫,Director of Shamans,府,Storekeeper,1,Administers director of shamans.
+3,Spring Offices – Zongbo (Minister of Rites),38,司巫,Director of Shamans,徒,Laborer,10,Administers director of shamans.
+3,Spring Offices – Zongbo (Minister of Rites),38,司巫,Director of Shamans,胥,Clerk,1,Administers director of shamans.
+3,Spring Offices – Zongbo (Minister of Rites),39,其師,Their Master,中士,Middle Officer,4,Administers their master.
+3,Spring Offices – Zongbo (Minister of Rites),39,其師,Their Master,史,Scribe,4,Administers their master.
+3,Spring Offices – Zongbo (Minister of Rites),39,其師,Their Master,府,Storekeeper,2,Administers their master.
+3,Spring Offices – Zongbo (Minister of Rites),39,其師,Their Master,徒,Laborer,40,Administers their master.
+3,Spring Offices – Zongbo (Minister of Rites),39,其師,Their Master,胥,Clerk,4,Administers their master.
+3,Spring Offices – Zongbo (Minister of Rites),40,大史,Grand Scribe,上士,Senior Officer,4,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),40,大史,Grand Scribe,下大夫,Lower Grand Officer,2,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),40,小史,Assistant Scribe,下士,Junior Officer,16,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),40,小史,Assistant Scribe,中士,Middle Officer,8,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),40,小史,Assistant Scribe,史,Scribe,8,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),40,小史,Assistant Scribe,府,Storekeeper,4,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),40,小史,Assistant Scribe,徒,Laborer,40,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),40,小史,Assistant Scribe,胥,Clerk,4,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),41,馮相氏,Astronomical Observer,下士,Junior Officer,4,Administers astronomical observer.
+3,Spring Offices – Zongbo (Minister of Rites),41,馮相氏,Astronomical Observer,中士,Middle Officer,2,Administers astronomical observer.
+3,Spring Offices – Zongbo (Minister of Rites),41,馮相氏,Astronomical Observer,史,Scribe,4,Administers astronomical observer.
+3,Spring Offices – Zongbo (Minister of Rites),41,馮相氏,Astronomical Observer,府,Storekeeper,2,Administers astronomical observer.
+3,Spring Offices – Zongbo (Minister of Rites),41,馮相氏,Astronomical Observer,徒,Laborer,8,Administers astronomical observer.
+3,Spring Offices – Zongbo (Minister of Rites),42,保章氏,Astronomical Calendar Officer,下士,Junior Officer,4,Administers astronomical calendar officer.
+3,Spring Offices – Zongbo (Minister of Rites),42,保章氏,Astronomical Calendar Officer,中士,Middle Officer,2,Administers astronomical calendar officer.
+3,Spring Offices – Zongbo (Minister of Rites),42,保章氏,Astronomical Calendar Officer,史,Scribe,4,Administers astronomical calendar officer.
+3,Spring Offices – Zongbo (Minister of Rites),42,保章氏,Astronomical Calendar Officer,府,Storekeeper,2,Administers astronomical calendar officer.
+3,Spring Offices – Zongbo (Minister of Rites),42,保章氏,Astronomical Calendar Officer,徒,Laborer,8,Administers astronomical calendar officer.
+3,Spring Offices – Zongbo (Minister of Rites),43,內史,Inner Scribe,上士,Senior Officer,4,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,內史,Inner Scribe,下士,Junior Officer,16,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,內史,Inner Scribe,下大夫,Lower Grand Officer,2,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,內史,Inner Scribe,中士,Middle Officer,8,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,內史,Inner Scribe,中大夫,Middle Grand Officer,1,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,內史,Inner Scribe,史,Scribe,8,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,內史,Inner Scribe,府,Storekeeper,4,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,內史,Inner Scribe,徒,Laborer,40,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,內史,Inner Scribe,胥,Clerk,4,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,外史,Outer Scribe,上士,Senior Officer,4,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,外史,Outer Scribe,下士,Junior Officer,16,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,外史,Outer Scribe,中士,Middle Officer,8,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,外史,Outer Scribe,徒,Laborer,20,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,外史,Outer Scribe,胥,Clerk,2,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,巾車,State Carriages Officer,上士,Senior Officer,4,Administers state carriages officer.
+3,Spring Offices – Zongbo (Minister of Rites),43,巾車,State Carriages Officer,下士,Junior Officer,16,Administers state carriages officer.
+3,Spring Offices – Zongbo (Minister of Rites),43,巾車,State Carriages Officer,下大夫,Lower Grand Officer,2,Administers state carriages officer.
+3,Spring Offices – Zongbo (Minister of Rites),43,巾車,State Carriages Officer,中士,Middle Officer,8,Administers state carriages officer.
+3,Spring Offices – Zongbo (Minister of Rites),43,巾車,State Carriages Officer,史,Scribe,8,Administers state carriages officer.
+3,Spring Offices – Zongbo (Minister of Rites),43,巾車,State Carriages Officer,工,Artisan,100,Administers state carriages officer.
+3,Spring Offices – Zongbo (Minister of Rites),43,巾車,State Carriages Officer,府,Storekeeper,4,Administers state carriages officer.
+3,Spring Offices – Zongbo (Minister of Rites),43,巾車,State Carriages Officer,徒,Laborer,50,Administers state carriages officer.
+3,Spring Offices – Zongbo (Minister of Rites),43,巾車,State Carriages Officer,胥,Clerk,5,Administers state carriages officer.
+3,Spring Offices – Zongbo (Minister of Rites),43,御史,Censor / Recorder,下士,Junior Officer,16,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,御史,Censor / Recorder,史,Scribe,120,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,御史,Censor / Recorder,府,Storekeeper,4,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,御史,Censor / Recorder,徒,Laborer,40,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),43,御史,Censor / Recorder,胥,Clerk,4,Keeps state records.
+3,Spring Offices – Zongbo (Minister of Rites),46,典路,Director of Roads and Carriages,下士,Junior Officer,4,Administers director of roads and carriages.
+3,Spring Offices – Zongbo (Minister of Rites),46,典路,Director of Roads and Carriages,中士,Middle Officer,2,Administers director of roads and carriages.
+3,Spring Offices – Zongbo (Minister of Rites),46,典路,Director of Roads and Carriages,史,Scribe,2,Administers director of roads and carriages.
+3,Spring Offices – Zongbo (Minister of Rites),46,典路,Director of Roads and Carriages,府,Storekeeper,2,Administers director of roads and carriages.
+3,Spring Offices – Zongbo (Minister of Rites),46,典路,Director of Roads and Carriages,徒,Laborer,20,Administers director of roads and carriages.
+3,Spring Offices – Zongbo (Minister of Rites),46,典路,Director of Roads and Carriages,胥,Clerk,2,Administers director of roads and carriages.
+3,Spring Offices – Zongbo (Minister of Rites),47,車仆,Carriage Servant,下士,Junior Officer,4,Administers carriage servant.
+3,Spring Offices – Zongbo (Minister of Rites),47,車仆,Carriage Servant,中士,Middle Officer,2,Administers carriage servant.
+3,Spring Offices – Zongbo (Minister of Rites),47,車仆,Carriage Servant,史,Scribe,2,Administers carriage servant.
+3,Spring Offices – Zongbo (Minister of Rites),47,車仆,Carriage Servant,府,Storekeeper,2,Administers carriage servant.
+3,Spring Offices – Zongbo (Minister of Rites),47,車仆,Carriage Servant,徒,Laborer,20,Administers carriage servant.
+3,Spring Offices – Zongbo (Minister of Rites),47,車仆,Carriage Servant,胥,Clerk,2,Administers carriage servant.
+3,Spring Offices – Zongbo (Minister of Rites),48,司常,Director of Standards,下士,Junior Officer,4,Administers director of standards.
+3,Spring Offices – Zongbo (Minister of Rites),48,司常,Director of Standards,中士,Middle Officer,2,Administers director of standards.
+3,Spring Offices – Zongbo (Minister of Rites),48,司常,Director of Standards,史,Scribe,2,Administers director of standards.
+3,Spring Offices – Zongbo (Minister of Rites),48,司常,Director of Standards,府,Storekeeper,2,Administers director of standards.
+3,Spring Offices – Zongbo (Minister of Rites),48,司常,Director of Standards,徒,Laborer,40,Administers director of standards.
+3,Spring Offices – Zongbo (Minister of Rites),48,司常,Director of Standards,胥,Clerk,4,Administers director of standards.
+3,Spring Offices – Zongbo (Minister of Rites),49,都宗人,Capital Clan Officer,上士,Senior Officer,2,Administers capital clan officer.
+3,Spring Offices – Zongbo (Minister of Rites),49,都宗人,Capital Clan Officer,中士,Middle Officer,4,Administers capital clan officer.
+3,Spring Offices – Zongbo (Minister of Rites),49,都宗人,Capital Clan Officer,史,Scribe,4,Administers capital clan officer.
+3,Spring Offices – Zongbo (Minister of Rites),49,都宗人,Capital Clan Officer,府,Storekeeper,2,Administers capital clan officer.
+3,Spring Offices – Zongbo (Minister of Rites),49,都宗人,Capital Clan Officer,徒,Laborer,40,Administers capital clan officer.
+3,Spring Offices – Zongbo (Minister of Rites),49,都宗人,Capital Clan Officer,胥,Clerk,4,Administers capital clan officer.
+4,Summer Offices – Grand Sima,1,大司馬,Grand Sima,卿,Minister,1,Administers grand sima.
+4,Summer Offices – Grand Sima,1,小司馬,Assistant Sima,中大夫,Middle Grand Officer,2,Administers assistant sima.
+4,Summer Offices – Grand Sima,1,行司馬,Marching Sima,中士,Middle Officer,16,Administers marching sima.
+4,Summer Offices – Grand Sima,1,行司馬,Marching Sima,史,Scribe,16,Administers marching sima.
+4,Summer Offices – Grand Sima,1,行司馬,Marching Sima,府,Storekeeper,6,Administers marching sima.
+4,Summer Offices – Grand Sima,1,行司馬,Marching Sima,徒,Laborer,320,Administers marching sima.
+4,Summer Offices – Grand Sima,1,行司馬,Marching Sima,旅下士,Retinue Junior Officer,32,Administers marching sima.
+4,Summer Offices – Grand Sima,1,行司馬,Marching Sima,胥,Clerk,32,Administers marching sima.
+4,Summer Offices – Grand Sima,1,軍司馬,Army Sima,下大夫,Lower Grand Officer,4,Administers army sima.
+4,Summer Offices – Grand Sima,1,輿司馬,Chariot Sima,上士,Senior Officer,8,Manages horses and chariots.
+4,Summer Offices – Grand Sima,2,凡制軍,凡制軍,徒,Laborer,100,Administers 凡制軍.
+4,Summer Offices – Grand Sima,2,凡制軍,凡制軍,胥,Clerk,10,Administers 凡制軍.
+4,Summer Offices – Grand Sima,3,司勛,Director of Merit,上士,Senior Officer,2,Administers director of merit.
+4,Summer Offices – Grand Sima,3,司勛,Director of Merit,下士,Junior Officer,4,Administers director of merit.
+4,Summer Offices – Grand Sima,3,司勛,Director of Merit,史,Scribe,4,Administers director of merit.
+4,Summer Offices – Grand Sima,3,司勛,Director of Merit,府,Storekeeper,2,Administers director of merit.
+4,Summer Offices – Grand Sima,3,司勛,Director of Merit,徒,Laborer,20,Administers director of merit.
+4,Summer Offices – Grand Sima,3,司勛,Director of Merit,胥,Clerk,2,Administers director of merit.
+4,Summer Offices – Grand Sima,4,馬質,Horse Appraiser,中士,Middle Officer,2,Manages horses and chariots.
+4,Summer Offices – Grand Sima,4,馬質,Horse Appraiser,史,Scribe,2,Manages horses and chariots.
+4,Summer Offices – Grand Sima,4,馬質,Horse Appraiser,府,Storekeeper,1,Manages horses and chariots.
+4,Summer Offices – Grand Sima,4,馬質,Horse Appraiser,徒,Laborer,8,Manages horses and chariots.
+4,Summer Offices – Grand Sima,4,馬質,Horse Appraiser,賈,Merchant,4,Manages horses and chariots.
+4,Summer Offices – Grand Sima,5,量人,Surveyor,下士,Junior Officer,2,Administers surveyor.
+4,Summer Offices – Grand Sima,5,量人,Surveyor,史,Scribe,4,Administers surveyor.
+4,Summer Offices – Grand Sima,5,量人,Surveyor,府,Storekeeper,1,Administers surveyor.
+4,Summer Offices – Grand Sima,5,量人,Surveyor,徒,Laborer,8,Administers surveyor.
+4,Summer Offices – Grand Sima,6,小子,Pages,下士,Junior Officer,2,Administers pages.
+4,Summer Offices – Grand Sima,6,小子,Pages,史,Scribe,1,Administers pages.
+4,Summer Offices – Grand Sima,6,小子,Pages,徒,Laborer,8,Administers pages.
+4,Summer Offices – Grand Sima,7,羊人,Sheep Officer,下士,Junior Officer,2,Administers sheep officer.
+4,Summer Offices – Grand Sima,7,羊人,Sheep Officer,史,Scribe,1,Administers sheep officer.
+4,Summer Offices – Grand Sima,7,羊人,Sheep Officer,徒,Laborer,8,Administers sheep officer.
+4,Summer Offices – Grand Sima,7,羊人,Sheep Officer,賈,Merchant,2,Administers sheep officer.
+4,Summer Offices – Grand Sima,8,司爟,Director of Beacons,下士,Junior Officer,2,Administers director of beacons.
+4,Summer Offices – Grand Sima,8,司爟,Director of Beacons,徒,Laborer,6,Administers director of beacons.
+4,Summer Offices – Grand Sima,9,掌固,Manager of Fortifications,上士,Senior Officer,2,Administers manager of fortifications.
+4,Summer Offices – Grand Sima,9,掌固,Manager of Fortifications,下士,Junior Officer,8,Administers manager of fortifications.
+4,Summer Offices – Grand Sima,9,掌固,Manager of Fortifications,史,Scribe,4,Administers manager of fortifications.
+4,Summer Offices – Grand Sima,9,掌固,Manager of Fortifications,府,Storekeeper,2,Administers manager of fortifications.
+4,Summer Offices – Grand Sima,9,掌固,Manager of Fortifications,徒,Laborer,40,Administers manager of fortifications.
+4,Summer Offices – Grand Sima,9,掌固,Manager of Fortifications,胥,Clerk,4,Administers manager of fortifications.
+4,Summer Offices – Grand Sima,10,司險,Director of Strategic Passes,下士,Junior Officer,4,Administers director of strategic passes.
+4,Summer Offices – Grand Sima,10,司險,Director of Strategic Passes,中士,Middle Officer,2,Administers director of strategic passes.
+4,Summer Offices – Grand Sima,10,司險,Director of Strategic Passes,史,Scribe,2,Administers director of strategic passes.
+4,Summer Offices – Grand Sima,10,司險,Director of Strategic Passes,徒,Laborer,40,Administers director of strategic passes.
+4,Summer Offices – Grand Sima,11,掌疆,Manager of Borders,中士,Middle Officer,8,Administers manager of borders.
+4,Summer Offices – Grand Sima,11,掌疆,Manager of Borders,史,Scribe,4,Administers manager of borders.
+4,Summer Offices – Grand Sima,11,掌疆,Manager of Borders,徒,Laborer,160,Administers manager of borders.
+4,Summer Offices – Grand Sima,11,掌疆,Manager of Borders,胥,Clerk,16,Administers manager of borders.
+4,Summer Offices – Grand Sima,12,候人,Watch Officer,上士,Senior Officer,6,Administers watch officer.
+4,Summer Offices – Grand Sima,12,候人,Watch Officer,下士,Junior Officer,12,Administers watch officer.
+4,Summer Offices – Grand Sima,12,候人,Watch Officer,史,Scribe,6,Administers watch officer.
+4,Summer Offices – Grand Sima,12,候人,Watch Officer,徒,Laborer,120,Administers watch officer.
+4,Summer Offices – Grand Sima,13,環人,Ring-Signal Officer,下士,Junior Officer,6,Administers ring-signal officer.
+4,Summer Offices – Grand Sima,13,環人,Ring-Signal Officer,史,Scribe,2,Administers ring-signal officer.
+4,Summer Offices – Grand Sima,13,環人,Ring-Signal Officer,徒,Laborer,12,Administers ring-signal officer.
+4,Summer Offices – Grand Sima,14,挈壺氏,Water-Clock Officer,下士,Junior Officer,6,Administers water-clock officer.
+4,Summer Offices – Grand Sima,14,挈壺氏,Water-Clock Officer,史,Scribe,2,Administers water-clock officer.
+4,Summer Offices – Grand Sima,14,挈壺氏,Water-Clock Officer,徒,Laborer,12,Administers water-clock officer.
+4,Summer Offices – Grand Sima,15,射人,Archery Officer,上士,Senior Officer,4,Administers archery officer.
+4,Summer Offices – Grand Sima,15,射人,Archery Officer,下士,Junior Officer,8,Administers archery officer.
+4,Summer Offices – Grand Sima,15,射人,Archery Officer,下大夫,Lower Grand Officer,2,Administers archery officer.
+4,Summer Offices – Grand Sima,15,射人,Archery Officer,史,Scribe,4,Administers archery officer.
+4,Summer Offices – Grand Sima,15,射人,Archery Officer,府,Storekeeper,2,Administers archery officer.
+4,Summer Offices – Grand Sima,15,射人,Archery Officer,徒,Laborer,20,Administers archery officer.
+4,Summer Offices – Grand Sima,15,射人,Archery Officer,胥,Clerk,2,Administers archery officer.
+4,Summer Offices – Grand Sima,15,服不氏,Garment Inspection Officer,下士,Junior Officer,1,Administers garment inspection officer.
+4,Summer Offices – Grand Sima,15,服不氏,Garment Inspection Officer,徒,Laborer,4,Administers garment inspection officer.
+4,Summer Offices – Grand Sima,16,射鳥氏,Bird-Shooting Officer,下士,Junior Officer,1,Administers bird-shooting officer.
+4,Summer Offices – Grand Sima,16,射鳥氏,Bird-Shooting Officer,徒,Laborer,4,Administers bird-shooting officer.
+4,Summer Offices – Grand Sima,17,羅氏,Netting Officer,下士,Junior Officer,1,Administers netting officer.
+4,Summer Offices – Grand Sima,17,羅氏,Netting Officer,徒,Laborer,8,Administers netting officer.
+4,Summer Offices – Grand Sima,18,掌畜,Manager of Livestock,下士,Junior Officer,2,Administers manager of livestock.
+4,Summer Offices – Grand Sima,18,掌畜,Manager of Livestock,史,Scribe,2,Administers manager of livestock.
+4,Summer Offices – Grand Sima,18,掌畜,Manager of Livestock,徒,Laborer,20,Administers manager of livestock.
+4,Summer Offices – Grand Sima,18,掌畜,Manager of Livestock,胥,Clerk,2,Administers manager of livestock.
+4,Summer Offices – Grand Sima,19,司士,Director of Officers,下士,Junior Officer,12,Administers director of officers.
+4,Summer Offices – Grand Sima,19,司士,Director of Officers,下大夫,Lower Grand Officer,2,Administers director of officers.
+4,Summer Offices – Grand Sima,19,司士,Director of Officers,中士,Middle Officer,6,Administers director of officers.
+4,Summer Offices – Grand Sima,19,司士,Director of Officers,史,Scribe,4,Administers director of officers.
+4,Summer Offices – Grand Sima,19,司士,Director of Officers,府,Storekeeper,2,Administers director of officers.
+4,Summer Offices – Grand Sima,19,司士,Director of Officers,徒,Laborer,40,Administers director of officers.
+4,Summer Offices – Grand Sima,19,司士,Director of Officers,胥,Clerk,4,Administers director of officers.
+4,Summer Offices – Grand Sima,20,諸子,Princes' Attendants,下大夫,Lower Grand Officer,2,Administers princes' attendants.
+4,Summer Offices – Grand Sima,20,諸子,Princes' Attendants,中士,Middle Officer,4,Administers princes' attendants.
+4,Summer Offices – Grand Sima,20,諸子,Princes' Attendants,史,Scribe,2,Administers princes' attendants.
+4,Summer Offices – Grand Sima,20,諸子,Princes' Attendants,府,Storekeeper,2,Administers princes' attendants.
+4,Summer Offices – Grand Sima,20,諸子,Princes' Attendants,徒,Laborer,20,Administers princes' attendants.
+4,Summer Offices – Grand Sima,20,諸子,Princes' Attendants,胥,Clerk,2,Administers princes' attendants.
+4,Summer Offices – Grand Sima,21,司右,Director of the Right,上士,Senior Officer,2,Administers director of the right.
+4,Summer Offices – Grand Sima,21,司右,Director of the Right,下士,Junior Officer,4,Administers director of the right.
+4,Summer Offices – Grand Sima,21,司右,Director of the Right,史,Scribe,4,Administers director of the right.
+4,Summer Offices – Grand Sima,21,司右,Director of the Right,府,Storekeeper,4,Administers director of the right.
+4,Summer Offices – Grand Sima,21,司右,Director of the Right,徒,Laborer,80,Administers director of the right.
+4,Summer Offices – Grand Sima,21,司右,Director of the Right,胥,Clerk,8,Administers director of the right.
+4,Summer Offices – Grand Sima,22,虎賁氏,Tiger Guard Officer,下大夫,Lower Grand Officer,20,Guards palace or city.
+4,Summer Offices – Grand Sima,22,虎賁氏,Tiger Guard Officer,中士,Middle Officer,12,Guards palace or city.
+4,Summer Offices – Grand Sima,22,虎賁氏,Tiger Guard Officer,史,Scribe,8,Guards palace or city.
+4,Summer Offices – Grand Sima,22,虎賁氏,Tiger Guard Officer,府,Storekeeper,2,Guards palace or city.
+4,Summer Offices – Grand Sima,22,虎賁氏,Tiger Guard Officer,胥,Clerk,80,Guards palace or city.
+4,Summer Offices – Grand Sima,23,旅賁氏,Brigade Guards Officer,下士,Junior Officer,16,Guards palace or city.
+4,Summer Offices – Grand Sima,23,旅賁氏,Brigade Guards Officer,中士,Middle Officer,2,Guards palace or city.
+4,Summer Offices – Grand Sima,23,旅賁氏,Brigade Guards Officer,史,Scribe,2,Guards palace or city.
+4,Summer Offices – Grand Sima,23,旅賁氏,Brigade Guards Officer,徒,Laborer,8,Guards palace or city.
+4,Summer Offices – Grand Sima,24,節服氏,Seasonal Dress Officer,下士,Junior Officer,8,Administers seasonal dress officer.
+4,Summer Offices – Grand Sima,24,節服氏,Seasonal Dress Officer,徒,Laborer,4,Administers seasonal dress officer.
+4,Summer Offices – Grand Sima,25,大仆,Grand Charioteer,下大夫,Lower Grand Officer,2,Manages horses and chariots.
+4,Summer Offices – Grand Sima,25,小臣,Minor Retainer,上士,Senior Officer,4,Administers minor retainer.
+4,Summer Offices – Grand Sima,25,御仆,Driving Servant,下士,Junior Officer,12,Administers driving servant.
+4,Summer Offices – Grand Sima,25,御仆,Driving Servant,史,Scribe,4,Administers driving servant.
+4,Summer Offices – Grand Sima,25,御仆,Driving Servant,府,Storekeeper,2,Administers driving servant.
+4,Summer Offices – Grand Sima,25,御仆,Driving Servant,徒,Laborer,20,Administers driving servant.
+4,Summer Offices – Grand Sima,25,御仆,Driving Servant,胥,Clerk,2,Administers driving servant.
+4,Summer Offices – Grand Sima,25,祭仆,Sacrificial Charioteer,中士,Middle Officer,6,Manages horses and chariots.
+4,Summer Offices – Grand Sima,26,弁師,Cap Master,下士,Junior Officer,2,Administers cap master.
+4,Summer Offices – Grand Sima,26,弁師,Cap Master,史,Scribe,2,Administers cap master.
+4,Summer Offices – Grand Sima,26,弁師,Cap Master,工,Artisan,4,Administers cap master.
+4,Summer Offices – Grand Sima,26,弁師,Cap Master,徒,Laborer,4,Administers cap master.
+4,Summer Offices – Grand Sima,26,隸仆,Servile Charioteer,下士,Junior Officer,2,Manages horses and chariots.
+4,Summer Offices – Grand Sima,26,隸仆,Servile Charioteer,史,Scribe,2,Manages horses and chariots.
+4,Summer Offices – Grand Sima,26,隸仆,Servile Charioteer,府,Storekeeper,1,Manages horses and chariots.
+4,Summer Offices – Grand Sima,26,隸仆,Servile Charioteer,徒,Laborer,40,Manages horses and chariots.
+4,Summer Offices – Grand Sima,26,隸仆,Servile Charioteer,胥,Clerk,4,Manages horses and chariots.
+4,Summer Offices – Grand Sima,27,司甲,Director of Armor,下大夫,Lower Grand Officer,2,Manages military weapons.
+4,Summer Offices – Grand Sima,27,司甲,Director of Armor,中士,Middle Officer,8,Manages military weapons.
+4,Summer Offices – Grand Sima,27,司甲,Director of Armor,史,Scribe,8,Manages military weapons.
+4,Summer Offices – Grand Sima,27,司甲,Director of Armor,府,Storekeeper,4,Manages military weapons.
+4,Summer Offices – Grand Sima,27,司甲,Director of Armor,徒,Laborer,80,Manages military weapons.
+4,Summer Offices – Grand Sima,27,司甲,Director of Armor,胥,Clerk,8,Manages military weapons.
+4,Summer Offices – Grand Sima,28,司兵,Director of Weapons,中士,Middle Officer,4,Manages military weapons.
+4,Summer Offices – Grand Sima,28,司兵,Director of Weapons,史,Scribe,4,Manages military weapons.
+4,Summer Offices – Grand Sima,28,司兵,Director of Weapons,府,Storekeeper,2,Manages military weapons.
+4,Summer Offices – Grand Sima,28,司兵,Director of Weapons,徒,Laborer,20,Manages military weapons.
+4,Summer Offices – Grand Sima,28,司兵,Director of Weapons,胥,Clerk,2,Manages military weapons.
+4,Summer Offices – Grand Sima,29,司戈盾,Director of Spears and Shields,下士,Junior Officer,2,Manages military weapons.
+4,Summer Offices – Grand Sima,29,司戈盾,Director of Spears and Shields,史,Scribe,2,Manages military weapons.
+4,Summer Offices – Grand Sima,29,司戈盾,Director of Spears and Shields,府,Storekeeper,1,Manages military weapons.
+4,Summer Offices – Grand Sima,29,司戈盾,Director of Spears and Shields,徒,Laborer,4,Manages military weapons.
+4,Summer Offices – Grand Sima,30,司弓矢,Director of Bows and Arrows,下大夫,Lower Grand Officer,2,Manages military weapons.
+4,Summer Offices – Grand Sima,30,司弓矢,Director of Bows and Arrows,中士,Middle Officer,8,Manages military weapons.
+4,Summer Offices – Grand Sima,30,司弓矢,Director of Bows and Arrows,史,Scribe,8,Manages military weapons.
+4,Summer Offices – Grand Sima,30,司弓矢,Director of Bows and Arrows,府,Storekeeper,4,Manages military weapons.
+4,Summer Offices – Grand Sima,30,司弓矢,Director of Bows and Arrows,徒,Laborer,80,Manages military weapons.
+4,Summer Offices – Grand Sima,30,司弓矢,Director of Bows and Arrows,胥,Clerk,8,Manages military weapons.
+4,Summer Offices – Grand Sima,31,繕人,Repair Officer,上士,Senior Officer,2,Administers repair officer.
+4,Summer Offices – Grand Sima,31,繕人,Repair Officer,下士,Junior Officer,4,Administers repair officer.
+4,Summer Offices – Grand Sima,31,繕人,Repair Officer,史,Scribe,2,Administers repair officer.
+4,Summer Offices – Grand Sima,31,繕人,Repair Officer,府,Storekeeper,1,Administers repair officer.
+4,Summer Offices – Grand Sima,31,繕人,Repair Officer,徒,Laborer,20,Administers repair officer.
+4,Summer Offices – Grand Sima,31,繕人,Repair Officer,胥,Clerk,2,Administers repair officer.
+4,Summer Offices – Grand Sima,32,槁人,Forage Worker,中士,Middle Officer,4,Administers forage worker.
+4,Summer Offices – Grand Sima,32,槁人,Forage Worker,史,Scribe,4,Administers forage worker.
+4,Summer Offices – Grand Sima,32,槁人,Forage Worker,府,Storekeeper,2,Administers forage worker.
+4,Summer Offices – Grand Sima,32,槁人,Forage Worker,徒,Laborer,20,Administers forage worker.
+4,Summer Offices – Grand Sima,32,槁人,Forage Worker,胥,Clerk,2,Administers forage worker.
+4,Summer Offices – Grand Sima,33,戎右,Right-hand War Escort,上士,Senior Officer,2,Administers right-hand war escort.
+4,Summer Offices – Grand Sima,33,戎右,Right-hand War Escort,中大夫,Middle Grand Officer,2,Administers right-hand war escort.
+4,Summer Offices – Grand Sima,34,道右,Right-hand Road Escort,上士,Senior Officer,2,Administers right-hand road escort.
+4,Summer Offices – Grand Sima,34,齊右,Right-hand Escort for Qi,下大夫,Lower Grand Officer,2,Administers right-hand escort for qi.
+4,Summer Offices – Grand Sima,35,大馭,Grand Driver,中大夫,Middle Grand Officer,2,Manages natural resources.
+4,Summer Offices – Grand Sima,36,戎仆,War Charioteer,中大夫,Middle Grand Officer,2,Manages horses and chariots.
+4,Summer Offices – Grand Sima,37,齊仆,Qi-state Charioteer,下大夫,Lower Grand Officer,2,Manages horses and chariots.
+4,Summer Offices – Grand Sima,38,道仆,Road Charioteer,上士,Senior Officer,12,Manages horses and chariots.
+4,Summer Offices – Grand Sima,39,田仆,Field Charioteer,上士,Senior Officer,12,Manages horses and chariots.
+4,Summer Offices – Grand Sima,40,馭夫,Driver,下士,Junior Officer,40,Manages natural resources.
+4,Summer Offices – Grand Sima,40,馭夫,Driver,中士,Middle Officer,20,Manages natural resources.
+4,Summer Offices – Grand Sima,41,校人,Horse Schooling Officer,上士,Senior Officer,4,Manages horses and chariots.
+4,Summer Offices – Grand Sima,41,校人,Horse Schooling Officer,下士,Junior Officer,16,Manages horses and chariots.
+4,Summer Offices – Grand Sima,41,校人,Horse Schooling Officer,中大夫,Middle Grand Officer,2,Manages horses and chariots.
+4,Summer Offices – Grand Sima,41,校人,Horse Schooling Officer,史,Scribe,8,Manages horses and chariots.
+4,Summer Offices – Grand Sima,41,校人,Horse Schooling Officer,府,Storekeeper,4,Manages horses and chariots.
+4,Summer Offices – Grand Sima,41,校人,Horse Schooling Officer,徒,Laborer,80,Manages horses and chariots.
+4,Summer Offices – Grand Sima,41,校人,Horse Schooling Officer,胥,Clerk,8,Manages horses and chariots.
+4,Summer Offices – Grand Sima,42,趣馬,Horse Groom,徒,Laborer,4,Manages horses and chariots.
+4,Summer Offices – Grand Sima,43,巫馬,Horse Shaman,下士,Junior Officer,2,Manages horses and chariots.
+4,Summer Offices – Grand Sima,43,巫馬,Horse Shaman,史,Scribe,2,Manages horses and chariots.
+4,Summer Offices – Grand Sima,43,巫馬,Horse Shaman,府,Storekeeper,1,Manages horses and chariots.
+4,Summer Offices – Grand Sima,43,巫馬,Horse Shaman,徒,Laborer,20,Manages horses and chariots.
+4,Summer Offices – Grand Sima,43,巫馬,Horse Shaman,賈,Merchant,2,Manages horses and chariots.
+4,Summer Offices – Grand Sima,44,牧師,Pasture Master,下士,Junior Officer,4,Administers pasture master.
+4,Summer Offices – Grand Sima,44,牧師,Pasture Master,徒,Laborer,40,Administers pasture master.
+4,Summer Offices – Grand Sima,44,牧師,Pasture Master,胥,Clerk,4,Administers pasture master.
+4,Summer Offices – Grand Sima,45,廋人,Horse Trainer,史,Scribe,2,Manages horses and chariots.
+4,Summer Offices – Grand Sima,45,廋人,Horse Trainer,徒,Laborer,20,Manages horses and chariots.
+4,Summer Offices – Grand Sima,46,圉師,圉 Master,徒,Laborer,2,Administers 圉 master.
+4,Summer Offices – Grand Sima,48,職方氏,Regional Affairs Officer,下大夫,Lower Grand Officer,8,Administers regional affairs officer.
+4,Summer Offices – Grand Sima,48,職方氏,Regional Affairs Officer,中士,Middle Officer,16,Administers regional affairs officer.
+4,Summer Offices – Grand Sima,48,職方氏,Regional Affairs Officer,中大夫,Middle Grand Officer,4,Administers regional affairs officer.
+4,Summer Offices – Grand Sima,48,職方氏,Regional Affairs Officer,史,Scribe,16,Administers regional affairs officer.
+4,Summer Offices – Grand Sima,48,職方氏,Regional Affairs Officer,府,Storekeeper,4,Administers regional affairs officer.
+4,Summer Offices – Grand Sima,48,職方氏,Regional Affairs Officer,徒,Laborer,160,Administers regional affairs officer.
+4,Summer Offices – Grand Sima,48,職方氏,Regional Affairs Officer,胥,Clerk,16,Administers regional affairs officer.
+4,Summer Offices – Grand Sima,49,土方氏,Territorial Officer,上士,Senior Officer,5,Administers territorial officer.
+4,Summer Offices – Grand Sima,49,土方氏,Territorial Officer,下士,Junior Officer,10,Administers territorial officer.
+4,Summer Offices – Grand Sima,49,土方氏,Territorial Officer,史,Scribe,5,Administers territorial officer.
+4,Summer Offices – Grand Sima,49,土方氏,Territorial Officer,府,Storekeeper,2,Administers territorial officer.
+4,Summer Offices – Grand Sima,49,土方氏,Territorial Officer,徒,Laborer,50,Administers territorial officer.
+4,Summer Offices – Grand Sima,49,土方氏,Territorial Officer,胥,Clerk,5,Administers territorial officer.
+4,Summer Offices – Grand Sima,50,懷方氏,Regional Pacification Officer,中士,Middle Officer,8,Administers regional pacification officer.
+4,Summer Offices – Grand Sima,50,懷方氏,Regional Pacification Officer,史,Scribe,4,Administers regional pacification officer.
+4,Summer Offices – Grand Sima,50,懷方氏,Regional Pacification Officer,府,Storekeeper,4,Administers regional pacification officer.
+4,Summer Offices – Grand Sima,50,懷方氏,Regional Pacification Officer,徒,Laborer,40,Administers regional pacification officer.
+4,Summer Offices – Grand Sima,50,懷方氏,Regional Pacification Officer,胥,Clerk,4,Administers regional pacification officer.
+4,Summer Offices – Grand Sima,51,合方氏,Regional Integration Officer,中士,Middle Officer,8,Administers regional integration officer.
+4,Summer Offices – Grand Sima,51,合方氏,Regional Integration Officer,史,Scribe,4,Administers regional integration officer.
+4,Summer Offices – Grand Sima,51,合方氏,Regional Integration Officer,府,Storekeeper,4,Administers regional integration officer.
+4,Summer Offices – Grand Sima,51,合方氏,Regional Integration Officer,徒,Laborer,40,Administers regional integration officer.
+4,Summer Offices – Grand Sima,51,合方氏,Regional Integration Officer,胥,Clerk,4,Administers regional integration officer.
+4,Summer Offices – Grand Sima,52,訓方氏,Regional Instruction Officer,中士,Middle Officer,4,Administers regional instruction officer.
+4,Summer Offices – Grand Sima,52,訓方氏,Regional Instruction Officer,史,Scribe,4,Administers regional instruction officer.
+4,Summer Offices – Grand Sima,52,訓方氏,Regional Instruction Officer,府,Storekeeper,4,Administers regional instruction officer.
+4,Summer Offices – Grand Sima,52,訓方氏,Regional Instruction Officer,徒,Laborer,40,Administers regional instruction officer.
+4,Summer Offices – Grand Sima,52,訓方氏,Regional Instruction Officer,胥,Clerk,4,Administers regional instruction officer.
+4,Summer Offices – Grand Sima,53,形方氏,Regional Forms Officer,中士,Middle Officer,4,Administers regional forms officer.
+4,Summer Offices – Grand Sima,53,形方氏,Regional Forms Officer,史,Scribe,4,Administers regional forms officer.
+4,Summer Offices – Grand Sima,53,形方氏,Regional Forms Officer,府,Storekeeper,4,Administers regional forms officer.
+4,Summer Offices – Grand Sima,53,形方氏,Regional Forms Officer,徒,Laborer,40,Administers regional forms officer.
+4,Summer Offices – Grand Sima,53,形方氏,Regional Forms Officer,胥,Clerk,4,Administers regional forms officer.
+4,Summer Offices – Grand Sima,54,山師,Mountain Master,下士,Junior Officer,4,Manages natural resources.
+4,Summer Offices – Grand Sima,54,山師,Mountain Master,中士,Middle Officer,2,Manages natural resources.
+4,Summer Offices – Grand Sima,54,山師,Mountain Master,史,Scribe,4,Manages natural resources.
+4,Summer Offices – Grand Sima,54,山師,Mountain Master,府,Storekeeper,2,Manages natural resources.
+4,Summer Offices – Grand Sima,54,山師,Mountain Master,徒,Laborer,40,Manages natural resources.
+4,Summer Offices – Grand Sima,54,山師,Mountain Master,胥,Clerk,4,Manages natural resources.
+4,Summer Offices – Grand Sima,55,川師,River Master,下士,Junior Officer,4,Manages natural resources.
+4,Summer Offices – Grand Sima,55,川師,River Master,中士,Middle Officer,2,Manages natural resources.
+4,Summer Offices – Grand Sima,55,川師,River Master,史,Scribe,4,Manages natural resources.
+4,Summer Offices – Grand Sima,55,川師,River Master,府,Storekeeper,2,Manages natural resources.
+4,Summer Offices – Grand Sima,55,川師,River Master,徒,Laborer,40,Manages natural resources.
+4,Summer Offices – Grand Sima,55,川師,River Master,胥,Clerk,4,Manages natural resources.
+4,Summer Offices – Grand Sima,56,原師,Plains Master,下士,Junior Officer,8,Administers plains master.
+4,Summer Offices – Grand Sima,56,原師,Plains Master,中士,Middle Officer,4,Administers plains master.
+4,Summer Offices – Grand Sima,56,原師,Plains Master,史,Scribe,8,Administers plains master.
+4,Summer Offices – Grand Sima,56,原師,Plains Master,府,Storekeeper,4,Administers plains master.
+4,Summer Offices – Grand Sima,56,原師,Plains Master,徒,Laborer,80,Administers plains master.
+4,Summer Offices – Grand Sima,56,原師,Plains Master,胥,Clerk,8,Administers plains master.
+4,Summer Offices – Grand Sima,57,匡人,Corrective Officer,中士,Middle Officer,4,Administers corrective officer.
+4,Summer Offices – Grand Sima,57,匡人,Corrective Officer,史,Scribe,4,Administers corrective officer.
+4,Summer Offices – Grand Sima,57,匡人,Corrective Officer,徒,Laborer,8,Administers corrective officer.
+4,Summer Offices – Grand Sima,58,撣人,Purification Officer,中士,Middle Officer,4,Administers purification officer.
+4,Summer Offices – Grand Sima,58,撣人,Purification Officer,史,Scribe,4,Administers purification officer.
+4,Summer Offices – Grand Sima,58,撣人,Purification Officer,徒,Laborer,8,Administers purification officer.
+4,Summer Offices – Grand Sima,59,都司馬,都Sima,上士,Senior Officer,2,Administers 都sima.
+4,Summer Offices – Grand Sima,59,都司馬,都Sima,下士,Junior Officer,8,Administers 都sima.
+4,Summer Offices – Grand Sima,59,都司馬,都Sima,中士,Middle Officer,4,Administers 都sima.
+4,Summer Offices – Grand Sima,59,都司馬,都Sima,史,Scribe,8,Administers 都sima.
+4,Summer Offices – Grand Sima,59,都司馬,都Sima,府,Storekeeper,2,Administers 都sima.
+4,Summer Offices – Grand Sima,59,都司馬,都Sima,徒,Laborer,80,Administers 都sima.
+4,Summer Offices – Grand Sima,59,都司馬,都Sima,胥,Clerk,8,Administers 都sima.
+5,Autumn Offices – Sikou (Minister of Justice),1,士師,Judicial Master,下大夫,Lower Grand Officer,4,Administers judicial master.
+5,Autumn Offices – Sikou (Minister of Justice),1,大司寇,Grand Sikou,卿,Minister,1,Administers grand sikou.
+5,Autumn Offices – Sikou (Minister of Justice),1,小司寇,Assistant Sikou,中大夫,Middle Grand Officer,2,Administers assistant sikou.
+5,Autumn Offices – Sikou (Minister of Justice),1,鄉士,District Judicial Officer,上士,Senior Officer,8,Administers district judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),1,鄉士,District Judicial Officer,中士,Middle Officer,16,Administers district judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),1,鄉士,District Judicial Officer,史,Scribe,12,Administers district judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),1,鄉士,District Judicial Officer,府,Storekeeper,6,Administers district judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),1,鄉士,District Judicial Officer,徒,Laborer,120,Administers district judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),1,鄉士,District Judicial Officer,旅下士,Retinue Junior Officer,32,Administers district judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),1,鄉士,District Judicial Officer,胥,Clerk,12,Administers district judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),2,遂士,District Judicial Officer,中士,Middle Officer,12,Administers district judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),2,遂士,District Judicial Officer,史,Scribe,12,Administers district judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),2,遂士,District Judicial Officer,府,Storekeeper,6,Administers district judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),2,遂士,District Judicial Officer,徒,Laborer,120,Administers district judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),2,遂士,District Judicial Officer,胥,Clerk,12,Administers district judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),3,方士,Regional Judicial Officer,中士,Middle Officer,16,Administers regional judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),3,方士,Regional Judicial Officer,史,Scribe,16,Administers regional judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),3,方士,Regional Judicial Officer,府,Storekeeper,8,Administers regional judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),3,方士,Regional Judicial Officer,徒,Laborer,160,Administers regional judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),3,方士,Regional Judicial Officer,胥,Clerk,16,Administers regional judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),3,縣士,County Judicial Officer,中士,Middle Officer,32,Administers county judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),3,縣士,County Judicial Officer,史,Scribe,16,Administers county judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),3,縣士,County Judicial Officer,府,Storekeeper,8,Administers county judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),3,縣士,County Judicial Officer,徒,Laborer,160,Administers county judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),3,縣士,County Judicial Officer,胥,Clerk,16,Administers county judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),4,訝士,Reception Judicial Officer,中士,Middle Officer,8,Administers reception judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),4,訝士,Reception Judicial Officer,史,Scribe,8,Administers reception judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),4,訝士,Reception Judicial Officer,府,Storekeeper,4,Administers reception judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),4,訝士,Reception Judicial Officer,徒,Laborer,80,Administers reception judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),4,訝士,Reception Judicial Officer,胥,Clerk,8,Administers reception judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),5,朝士,Court Judicial Officer,中士,Middle Officer,6,Administers court judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),5,朝士,Court Judicial Officer,史,Scribe,6,Administers court judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),5,朝士,Court Judicial Officer,府,Storekeeper,3,Administers court judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),5,朝士,Court Judicial Officer,徒,Laborer,60,Administers court judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),5,朝士,Court Judicial Officer,胥,Clerk,6,Administers court judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),6,司民,Director of the People,中士,Middle Officer,6,Administers director of the people.
+5,Autumn Offices – Sikou (Minister of Justice),6,司民,Director of the People,史,Scribe,6,Administers director of the people.
+5,Autumn Offices – Sikou (Minister of Justice),6,司民,Director of the People,府,Storekeeper,3,Administers director of the people.
+5,Autumn Offices – Sikou (Minister of Justice),6,司民,Director of the People,徒,Laborer,30,Administers director of the people.
+5,Autumn Offices – Sikou (Minister of Justice),6,司民,Director of the People,胥,Clerk,3,Administers director of the people.
+5,Autumn Offices – Sikou (Minister of Justice),7,司刑,Director of Punishments,中士,Middle Officer,2,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),7,司刑,Director of Punishments,史,Scribe,2,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),7,司刑,Director of Punishments,府,Storekeeper,1,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),7,司刑,Director of Punishments,徒,Laborer,20,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),7,司刑,Director of Punishments,胥,Clerk,2,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),8,司刺,Director of Inquests,下士,Junior Officer,2,Administers director of inquests.
+5,Autumn Offices – Sikou (Minister of Justice),8,司刺,Director of Inquests,史,Scribe,2,Administers director of inquests.
+5,Autumn Offices – Sikou (Minister of Justice),8,司刺,Director of Inquests,府,Storekeeper,1,Administers director of inquests.
+5,Autumn Offices – Sikou (Minister of Justice),8,司刺,Director of Inquests,徒,Laborer,4,Administers director of inquests.
+5,Autumn Offices – Sikou (Minister of Justice),9,司約,Director of Covenants,下士,Junior Officer,2,Administers director of covenants.
+5,Autumn Offices – Sikou (Minister of Justice),9,司約,Director of Covenants,史,Scribe,2,Administers director of covenants.
+5,Autumn Offices – Sikou (Minister of Justice),9,司約,Director of Covenants,府,Storekeeper,1,Administers director of covenants.
+5,Autumn Offices – Sikou (Minister of Justice),9,司約,Director of Covenants,徒,Laborer,4,Administers director of covenants.
+5,Autumn Offices – Sikou (Minister of Justice),10,司盟,Director of Oaths,下士,Junior Officer,2,Administers director of oaths.
+5,Autumn Offices – Sikou (Minister of Justice),10,司盟,Director of Oaths,史,Scribe,2,Administers director of oaths.
+5,Autumn Offices – Sikou (Minister of Justice),10,司盟,Director of Oaths,府,Storekeeper,1,Administers director of oaths.
+5,Autumn Offices – Sikou (Minister of Justice),10,司盟,Director of Oaths,徒,Laborer,4,Administers director of oaths.
+5,Autumn Offices – Sikou (Minister of Justice),11,職金,Metals Officer,上士,Senior Officer,2,Administers metals officer.
+5,Autumn Offices – Sikou (Minister of Justice),11,職金,Metals Officer,下士,Junior Officer,4,Administers metals officer.
+5,Autumn Offices – Sikou (Minister of Justice),11,職金,Metals Officer,史,Scribe,4,Administers metals officer.
+5,Autumn Offices – Sikou (Minister of Justice),11,職金,Metals Officer,府,Storekeeper,2,Administers metals officer.
+5,Autumn Offices – Sikou (Minister of Justice),11,職金,Metals Officer,徒,Laborer,80,Administers metals officer.
+5,Autumn Offices – Sikou (Minister of Justice),11,職金,Metals Officer,胥,Clerk,8,Administers metals officer.
+5,Autumn Offices – Sikou (Minister of Justice),12,司厲,Punishment Officer,下士,Junior Officer,2,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),12,司厲,Punishment Officer,史,Scribe,1,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),12,司厲,Punishment Officer,徒,Laborer,12,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),12,犬人,Dog Officer,下士,Junior Officer,2,Administers dog officer.
+5,Autumn Offices – Sikou (Minister of Justice),12,犬人,Dog Officer,史,Scribe,2,Administers dog officer.
+5,Autumn Offices – Sikou (Minister of Justice),12,犬人,Dog Officer,府,Storekeeper,1,Administers dog officer.
+5,Autumn Offices – Sikou (Minister of Justice),12,犬人,Dog Officer,徒,Laborer,16,Administers dog officer.
+5,Autumn Offices – Sikou (Minister of Justice),12,犬人,Dog Officer,賈,Merchant,4,Administers dog officer.
+5,Autumn Offices – Sikou (Minister of Justice),13,司圜,Prison Officer,下士,Junior Officer,12,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),13,司圜,Prison Officer,中士,Middle Officer,6,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),13,司圜,Prison Officer,史,Scribe,6,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),13,司圜,Prison Officer,府,Storekeeper,3,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),13,司圜,Prison Officer,徒,Laborer,160,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),13,司圜,Prison Officer,胥,Clerk,16,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),13,掌囚,Manager of Prisoners,下士,Junior Officer,12,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),13,掌囚,Manager of Prisoners,史,Scribe,12,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),13,掌囚,Manager of Prisoners,府,Storekeeper,6,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),13,掌囚,Manager of Prisoners,徒,Laborer,120,Administers justice.
+5,Autumn Offices – Sikou (Minister of Justice),14,掌戮,Manager of Executions,下士,Junior Officer,2,Administers manager of executions.
+5,Autumn Offices – Sikou (Minister of Justice),14,掌戮,Manager of Executions,史,Scribe,1,Administers manager of executions.
+5,Autumn Offices – Sikou (Minister of Justice),14,掌戮,Manager of Executions,徒,Laborer,12,Administers manager of executions.
+5,Autumn Offices – Sikou (Minister of Justice),15,司隸,Director of Convict Labor,下士,Junior Officer,12,Administers director of convict labor.
+5,Autumn Offices – Sikou (Minister of Justice),15,司隸,Director of Convict Labor,中士,Middle Officer,2,Administers director of convict labor.
+5,Autumn Offices – Sikou (Minister of Justice),15,司隸,Director of Convict Labor,史,Scribe,10,Administers director of convict labor.
+5,Autumn Offices – Sikou (Minister of Justice),15,司隸,Director of Convict Labor,府,Storekeeper,5,Administers director of convict labor.
+5,Autumn Offices – Sikou (Minister of Justice),15,司隸,Director of Convict Labor,徒,Laborer,200,Administers director of convict labor.
+5,Autumn Offices – Sikou (Minister of Justice),15,司隸,Director of Convict Labor,胥,Clerk,20,Administers director of convict labor.
+5,Autumn Offices – Sikou (Minister of Justice),21,布憲,Proclamation Officer,下士,Junior Officer,4,Administers proclamation officer.
+5,Autumn Offices – Sikou (Minister of Justice),21,布憲,Proclamation Officer,中士,Middle Officer,2,Administers proclamation officer.
+5,Autumn Offices – Sikou (Minister of Justice),21,布憲,Proclamation Officer,史,Scribe,4,Administers proclamation officer.
+5,Autumn Offices – Sikou (Minister of Justice),21,布憲,Proclamation Officer,府,Storekeeper,2,Administers proclamation officer.
+5,Autumn Offices – Sikou (Minister of Justice),21,布憲,Proclamation Officer,徒,Laborer,40,Administers proclamation officer.
+5,Autumn Offices – Sikou (Minister of Justice),21,布憲,Proclamation Officer,胥,Clerk,4,Administers proclamation officer.
+5,Autumn Offices – Sikou (Minister of Justice),22,禁殺戮,Execution Prohibition Officer,下士,Junior Officer,2,Administers execution prohibition officer.
+5,Autumn Offices – Sikou (Minister of Justice),22,禁殺戮,Execution Prohibition Officer,史,Scribe,1,Administers execution prohibition officer.
+5,Autumn Offices – Sikou (Minister of Justice),22,禁殺戮,Execution Prohibition Officer,徒,Laborer,12,Administers execution prohibition officer.
+5,Autumn Offices – Sikou (Minister of Justice),23,禁暴氏,Violence Suppression Officer,下士,Junior Officer,6,Administers violence suppression officer.
+5,Autumn Offices – Sikou (Minister of Justice),23,禁暴氏,Violence Suppression Officer,史,Scribe,3,Administers violence suppression officer.
+5,Autumn Offices – Sikou (Minister of Justice),23,禁暴氏,Violence Suppression Officer,徒,Laborer,60,Administers violence suppression officer.
+5,Autumn Offices – Sikou (Minister of Justice),23,禁暴氏,Violence Suppression Officer,胥,Clerk,6,Administers violence suppression officer.
+5,Autumn Offices – Sikou (Minister of Justice),24,野廬氏,Rural Huts Officer,下士,Junior Officer,6,Administers rural huts officer.
+5,Autumn Offices – Sikou (Minister of Justice),24,野廬氏,Rural Huts Officer,徒,Laborer,120,Administers rural huts officer.
+5,Autumn Offices – Sikou (Minister of Justice),24,野廬氏,Rural Huts Officer,胥,Clerk,12,Administers rural huts officer.
+5,Autumn Offices – Sikou (Minister of Justice),25,蠟氏,Wax Officer,下士,Junior Officer,4,Administers wax officer.
+5,Autumn Offices – Sikou (Minister of Justice),25,蠟氏,Wax Officer,徒,Laborer,40,Administers wax officer.
+5,Autumn Offices – Sikou (Minister of Justice),26,雍氏,Dike Officer,下士,Junior Officer,2,Administers dike officer.
+5,Autumn Offices – Sikou (Minister of Justice),26,雍氏,Dike Officer,徒,Laborer,8,Administers dike officer.
+5,Autumn Offices – Sikou (Minister of Justice),27,萍氏,Duckweed Officer,下士,Junior Officer,2,Administers duckweed officer.
+5,Autumn Offices – Sikou (Minister of Justice),27,萍氏,Duckweed Officer,徒,Laborer,8,Administers duckweed officer.
+5,Autumn Offices – Sikou (Minister of Justice),28,司寤氏,Night Watch Officer,下士,Junior Officer,2,Administers night watch officer.
+5,Autumn Offices – Sikou (Minister of Justice),28,司寤氏,Night Watch Officer,徒,Laborer,8,Administers night watch officer.
+5,Autumn Offices – Sikou (Minister of Justice),29,司烜氏,Torch Officer,下士,Junior Officer,6,Administers torch officer.
+5,Autumn Offices – Sikou (Minister of Justice),29,司烜氏,Torch Officer,徒,Laborer,16,Administers torch officer.
+5,Autumn Offices – Sikou (Minister of Justice),30,條狼氏,Wolf-Striping Officer,下士,Junior Officer,6,Administers wolf-striping officer.
+5,Autumn Offices – Sikou (Minister of Justice),30,條狼氏,Wolf-Striping Officer,徒,Laborer,60,Administers wolf-striping officer.
+5,Autumn Offices – Sikou (Minister of Justice),30,條狼氏,Wolf-Striping Officer,胥,Clerk,6,Administers wolf-striping officer.
+5,Autumn Offices – Sikou (Minister of Justice),31,修閭氏,Lane Repair Officer,下士,Junior Officer,2,Administers lane repair officer.
+5,Autumn Offices – Sikou (Minister of Justice),31,修閭氏,Lane Repair Officer,史,Scribe,1,Administers lane repair officer.
+5,Autumn Offices – Sikou (Minister of Justice),31,修閭氏,Lane Repair Officer,徒,Laborer,12,Administers lane repair officer.
+5,Autumn Offices – Sikou (Minister of Justice),32,冥氏,Nether Officer,下士,Junior Officer,2,Administers nether officer.
+5,Autumn Offices – Sikou (Minister of Justice),32,冥氏,Nether Officer,徒,Laborer,8,Administers nether officer.
+5,Autumn Offices – Sikou (Minister of Justice),33,庶氏,Pest Officer,下士,Junior Officer,1,Administers pest officer.
+5,Autumn Offices – Sikou (Minister of Justice),33,庶氏,Pest Officer,徒,Laborer,4,Administers pest officer.
+5,Autumn Offices – Sikou (Minister of Justice),34,穴氏,Burrow Officer,下士,Junior Officer,1,Administers burrow officer.
+5,Autumn Offices – Sikou (Minister of Justice),34,穴氏,Burrow Officer,徒,Laborer,4,Administers burrow officer.
+5,Autumn Offices – Sikou (Minister of Justice),35,翨氏,Feathered-Pest Officer,下士,Junior Officer,2,Administers feathered-pest officer.
+5,Autumn Offices – Sikou (Minister of Justice),35,翨氏,Feathered-Pest Officer,徒,Laborer,8,Administers feathered-pest officer.
+5,Autumn Offices – Sikou (Minister of Justice),36,柞氏,Oak Officer,下士,Junior Officer,8,Administers oak officer.
+5,Autumn Offices – Sikou (Minister of Justice),36,柞氏,Oak Officer,徒,Laborer,20,Administers oak officer.
+5,Autumn Offices – Sikou (Minister of Justice),37,薙氏,Weeding Officer,下士,Junior Officer,2,Administers weeding officer.
+5,Autumn Offices – Sikou (Minister of Justice),37,薙氏,Weeding Officer,徒,Laborer,20,Administers weeding officer.
+5,Autumn Offices – Sikou (Minister of Justice),38,硩蔟氏,Insect-Nest Officer,下士,Junior Officer,1,Administers insect-nest officer.
+5,Autumn Offices – Sikou (Minister of Justice),38,硩蔟氏,Insect-Nest Officer,徒,Laborer,2,Administers insect-nest officer.
+5,Autumn Offices – Sikou (Minister of Justice),39,翦氏,Cutting Officer,下士,Junior Officer,1,Administers cutting officer.
+5,Autumn Offices – Sikou (Minister of Justice),39,翦氏,Cutting Officer,徒,Laborer,2,Administers cutting officer.
+5,Autumn Offices – Sikou (Minister of Justice),40,赤犮氏,Red-Plague Officer,下士,Junior Officer,1,Administers red-plague officer.
+5,Autumn Offices – Sikou (Minister of Justice),40,赤犮氏,Red-Plague Officer,徒,Laborer,2,Administers red-plague officer.
+5,Autumn Offices – Sikou (Minister of Justice),41,蟈氏,Cricket Officer,下士,Junior Officer,1,Administers cricket officer.
+5,Autumn Offices – Sikou (Minister of Justice),41,蟈氏,Cricket Officer,徒,Laborer,2,Administers cricket officer.
+5,Autumn Offices – Sikou (Minister of Justice),42,壺涿氏,Gourd-Net Officer,下士,Junior Officer,1,Administers gourd-net officer.
+5,Autumn Offices – Sikou (Minister of Justice),42,壺涿氏,Gourd-Net Officer,徒,Laborer,2,Administers gourd-net officer.
+5,Autumn Offices – Sikou (Minister of Justice),43,庭氏,Courtyard Officer,下士,Junior Officer,1,Administers courtyard officer.
+5,Autumn Offices – Sikou (Minister of Justice),43,庭氏,Courtyard Officer,徒,Laborer,2,Administers courtyard officer.
+5,Autumn Offices – Sikou (Minister of Justice),44,銜枚氏,Gag-Bit Officer,下士,Junior Officer,2,Administers gag-bit officer.
+5,Autumn Offices – Sikou (Minister of Justice),44,銜枚氏,Gag-Bit Officer,徒,Laborer,8,Administers gag-bit officer.
+5,Autumn Offices – Sikou (Minister of Justice),45,伊耆氏,Senior Elders Officer,下士,Junior Officer,1,Administers senior elders officer.
+5,Autumn Offices – Sikou (Minister of Justice),45,伊耆氏,Senior Elders Officer,徒,Laborer,2,Administers senior elders officer.
+5,Autumn Offices – Sikou (Minister of Justice),45,大行人,Grand Protocol Officer,中大夫,Middle Grand Officer,2,Administers grand protocol officer.
+5,Autumn Offices – Sikou (Minister of Justice),45,小行人,Assistant Protocol Officer,下大夫,Lower Grand Officer,4,Administers assistant protocol officer.
+5,Autumn Offices – Sikou (Minister of Justice),46,司儀,Director of Ceremonial Reception,上士,Senior Officer,8,Administers director of ceremonial reception.
+5,Autumn Offices – Sikou (Minister of Justice),46,司儀,Director of Ceremonial Reception,中士,Middle Officer,16,Administers director of ceremonial reception.
+5,Autumn Offices – Sikou (Minister of Justice),46,行夫,Courier,下士,Junior Officer,32,Administers courier.
+5,Autumn Offices – Sikou (Minister of Justice),46,行夫,Courier,史,Scribe,8,Administers courier.
+5,Autumn Offices – Sikou (Minister of Justice),46,行夫,Courier,府,Storekeeper,4,Administers courier.
+5,Autumn Offices – Sikou (Minister of Justice),46,行夫,Courier,徒,Laborer,80,Administers courier.
+5,Autumn Offices – Sikou (Minister of Justice),46,行夫,Courier,胥,Clerk,8,Administers courier.
+5,Autumn Offices – Sikou (Minister of Justice),47,環人,Ring-Signal Officer,中士,Middle Officer,4,Administers ring-signal officer.
+5,Autumn Offices – Sikou (Minister of Justice),47,環人,Ring-Signal Officer,史,Scribe,4,Administers ring-signal officer.
+5,Autumn Offices – Sikou (Minister of Justice),47,環人,Ring-Signal Officer,徒,Laborer,40,Administers ring-signal officer.
+5,Autumn Offices – Sikou (Minister of Justice),47,環人,Ring-Signal Officer,胥,Clerk,4,Administers ring-signal officer.
+5,Autumn Offices – Sikou (Minister of Justice),48,象胥,象胥,上士,Senior Officer,1,Administers 象胥.
+5,Autumn Offices – Sikou (Minister of Justice),48,象胥,象胥,下士,Junior Officer,8,Administers 象胥.
+5,Autumn Offices – Sikou (Minister of Justice),48,象胥,象胥,中士,Middle Officer,2,Administers 象胥.
+5,Autumn Offices – Sikou (Minister of Justice),48,象胥,象胥,徒,Laborer,20,Administers 象胥.
+5,Autumn Offices – Sikou (Minister of Justice),49,掌客,Manager of Guests,上士,Senior Officer,2,Administers manager of guests.
+5,Autumn Offices – Sikou (Minister of Justice),49,掌客,Manager of Guests,下士,Junior Officer,4,Administers manager of guests.
+5,Autumn Offices – Sikou (Minister of Justice),49,掌客,Manager of Guests,史,Scribe,2,Administers manager of guests.
+5,Autumn Offices – Sikou (Minister of Justice),49,掌客,Manager of Guests,府,Storekeeper,1,Administers manager of guests.
+5,Autumn Offices – Sikou (Minister of Justice),49,掌客,Manager of Guests,徒,Laborer,20,Administers manager of guests.
+5,Autumn Offices – Sikou (Minister of Justice),49,掌客,Manager of Guests,胥,Clerk,2,Administers manager of guests.
+5,Autumn Offices – Sikou (Minister of Justice),50,掌訝,Manager of Interpreters,中士,Middle Officer,8,Administers manager of interpreters.
+5,Autumn Offices – Sikou (Minister of Justice),50,掌訝,Manager of Interpreters,史,Scribe,4,Administers manager of interpreters.
+5,Autumn Offices – Sikou (Minister of Justice),50,掌訝,Manager of Interpreters,府,Storekeeper,2,Administers manager of interpreters.
+5,Autumn Offices – Sikou (Minister of Justice),50,掌訝,Manager of Interpreters,徒,Laborer,40,Administers manager of interpreters.
+5,Autumn Offices – Sikou (Minister of Justice),50,掌訝,Manager of Interpreters,胥,Clerk,4,Administers manager of interpreters.
+5,Autumn Offices – Sikou (Minister of Justice),51,掌交,Manager of Diplomatic Exchange,中士,Middle Officer,8,Administers manager of diplomatic exchange.
+5,Autumn Offices – Sikou (Minister of Justice),51,掌交,Manager of Diplomatic Exchange,史,Scribe,4,Administers manager of diplomatic exchange.
+5,Autumn Offices – Sikou (Minister of Justice),51,掌交,Manager of Diplomatic Exchange,府,Storekeeper,2,Administers manager of diplomatic exchange.
+5,Autumn Offices – Sikou (Minister of Justice),51,掌交,Manager of Diplomatic Exchange,徒,Laborer,32,Administers manager of diplomatic exchange.
+5,Autumn Offices – Sikou (Minister of Justice),52,掌察,Manager of 察,中士,Middle Officer,8,Administers manager of 察.
+5,Autumn Offices – Sikou (Minister of Justice),52,掌察,Manager of 察,史,Scribe,4,Administers manager of 察.
+5,Autumn Offices – Sikou (Minister of Justice),52,掌察,Manager of 察,徒,Laborer,16,Administers manager of 察.
+5,Autumn Offices – Sikou (Minister of Justice),53,掌貨賄,Manager of Goods and Wealth,下士,Junior Officer,16,Administers manager of goods and wealth.
+5,Autumn Offices – Sikou (Minister of Justice),53,掌貨賄,Manager of Goods and Wealth,史,Scribe,4,Administers manager of goods and wealth.
+5,Autumn Offices – Sikou (Minister of Justice),53,掌貨賄,Manager of Goods and Wealth,徒,Laborer,32,Administers manager of goods and wealth.
+5,Autumn Offices – Sikou (Minister of Justice),54,朝大夫,朝Grand 夫,上士,Senior Officer,2,Administers 朝grand 夫.
+5,Autumn Offices – Sikou (Minister of Justice),54,朝大夫,朝Grand 夫,下士,Junior Officer,4,Administers 朝grand 夫.
+5,Autumn Offices – Sikou (Minister of Justice),54,朝大夫,朝Grand 夫,史,Scribe,2,Administers 朝grand 夫.
+5,Autumn Offices – Sikou (Minister of Justice),54,朝大夫,朝Grand 夫,府,Storekeeper,1,Administers 朝grand 夫.
+5,Autumn Offices – Sikou (Minister of Justice),54,朝大夫,朝Grand 夫,徒,Laborer,20,Administers 朝grand 夫.
+5,Autumn Offices – Sikou (Minister of Justice),55,都則,Capital Rules Officer,下士,Junior Officer,2,Administers capital rules officer.
+5,Autumn Offices – Sikou (Minister of Justice),55,都則,Capital Rules Officer,中士,Middle Officer,1,Administers capital rules officer.
+5,Autumn Offices – Sikou (Minister of Justice),55,都則,Capital Rules Officer,史,Scribe,2,Administers capital rules officer.
+5,Autumn Offices – Sikou (Minister of Justice),55,都則,Capital Rules Officer,府,Storekeeper,1,Administers capital rules officer.
+5,Autumn Offices – Sikou (Minister of Justice),55,都則,Capital Rules Officer,徒,Laborer,80,Administers capital rules officer.
+5,Autumn Offices – Sikou (Minister of Justice),56,都士,Capital Judicial Officer,下士,Junior Officer,4,Administers capital judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),56,都士,Capital Judicial Officer,中士,Middle Officer,2,Administers capital judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),56,都士,Capital Judicial Officer,史,Scribe,4,Administers capital judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),56,都士,Capital Judicial Officer,府,Storekeeper,2,Administers capital judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),56,都士,Capital Judicial Officer,徒,Laborer,40,Administers capital judicial officer.
+5,Autumn Offices – Sikou (Minister of Justice),56,都士,Capital Judicial Officer,胥,Clerk,4,Administers capital judicial officer.

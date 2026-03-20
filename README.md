@@ -4,7 +4,7 @@ I used rudimentary Japanese to identify simple Chinese characters indicating num
 Numbers of people are easier to translate than the actual descriptions of duties, ceremonies, etc.  
 
 Conclusions come from analyzing a .csv created from the Zhouli.txt using google translate combined with chatgpt's translate as well as annotations on the text and historical context.  The resulting numbers
-paint an image of a Zhou capital palace.  Over 6000 personel served in 200-300 roles.  The organization that the Zhouli describes was hierarchical, with large numbers of servants being overseen by  
+paint an image of a Zhou capital palace.  Over 6000 personel served in 376 roles.  The organization that the Zhouli describes was hierarchical, with large numbers of servants being overseen by  
 management that scales with the total number of workers.  
 
 Jobs vary widely and are divided by the books they appear in.
